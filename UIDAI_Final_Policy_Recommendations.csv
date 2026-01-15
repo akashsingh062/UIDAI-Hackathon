@@ -1,0 +1,210 @@
+state,district,priority_rank,forecast_next_month,required_staff,recommended_action,policy_reason
+100000,100000,1.0,67,1,Child-Focused Awareness + Mobile Unit,Severe Child Enrolment Gap
+Andaman & Nicobar Islands,Nicobars,2.0,1,1,Routine Monitoring,Stable Enrolment
+West Bengal,Hooghiy,2.0,1,1,Routine Monitoring,Stable Enrolment
+West Bengal,East Midnapur,2.0,1,1,Routine Monitoring,Stable Enrolment
+Uttar Pradesh,Bagpat,2.0,1,1,Routine Monitoring,Stable Enrolment
+Rajasthan,Beawar,2.0,1,1,Routine Monitoring,Stable Enrolment
+Rajasthan,Salumbar,2.0,1,1,Routine Monitoring,Stable Enrolment
+Orissa,Sundergarh,2.0,1,1,Routine Monitoring,Stable Enrolment
+Haryana,Jhajjar *,2.0,1,1,Routine Monitoring,Stable Enrolment
+Jammu & Kashmir,Punch,2.0,1,1,Routine Monitoring,Stable Enrolment
+Maharashtra,Hingoli *,2.0,1,1,Routine Monitoring,Stable Enrolment
+Tamil Nadu,Tiruvarur,2.0,1,1,Routine Monitoring,Stable Enrolment
+Rajasthan,Balotra,2.0,1,1,Routine Monitoring,Stable Enrolment
+Tamil Nadu,Namakkal   *,2.0,1,1,Routine Monitoring,Stable Enrolment
+Jammu & Kashmir,Badgam,2.0,1,1,Routine Monitoring,Stable Enrolment
+Orissa,Kendrapara *,2.0,1,1,Routine Monitoring,Stable Enrolment
+Meghalaya,Eastern West Khasi Hills,3.0,238,1,Special Enrollment Camp (3 days),High Expected Demand
+Sikkim,Mangan,4.0,1,1,Routine Monitoring,Stable Enrolment
+Arunachal Pradesh,Leparada,4.0,1,1,Routine Monitoring,Stable Enrolment
+Mizoram,Khawzawl,5.0,9,1,Routine Monitoring,Stable Enrolment
+Tamil Nadu,Tuticorin,6.0,1,1,Routine Monitoring,Stable Enrolment
+Orissa,Nabarangapur,6.0,1,1,Routine Monitoring,Stable Enrolment
+Rajasthan,Didwana-Kuchaman,6.0,2,1,Routine Monitoring,Stable Enrolment
+Goa,Bardez,6.0,1,1,Routine Monitoring,Stable Enrolment
+Jharkhand,Bokaro *,6.0,1,1,Routine Monitoring,Stable Enrolment
+Orissa,Khorda,6.0,1,1,Routine Monitoring,Stable Enrolment
+West Bengal,South 24 Pargana,6.0,1,1,Routine Monitoring,Stable Enrolment
+Jammu & Kashmir,Leh (Ladakh),6.0,1,1,Routine Monitoring,Stable Enrolment
+West Bengal,West Medinipur,6.0,2,1,Routine Monitoring,Stable Enrolment
+Delhi,North East   *,6.0,2,1,Routine Monitoring,Stable Enrolment
+Karnataka,Udupi *,6.0,2,1,Routine Monitoring,Stable Enrolment
+Jammu & Kashmir,Bandipur,6.0,1,1,Routine Monitoring,Stable Enrolment
+West Bengal,Burdwan,6.0,2,1,Routine Monitoring,Stable Enrolment
+Telangana,Medchal?Malkajgiri,6.0,1,1,Routine Monitoring,Stable Enrolment
+Jammu & Kashmir,Doda,6.0,2,1,Routine Monitoring,Stable Enrolment
+Jammu & Kashmir,Rajauri,6.0,1,1,Routine Monitoring,Stable Enrolment
+Odisha,Anugal,6.0,1,1,Routine Monitoring,Stable Enrolment
+Jammu & Kashmir,Udhampur,6.0,1,1,Routine Monitoring,Stable Enrolment
+Orissa,Nuapada,6.0,1,1,Routine Monitoring,Stable Enrolment
+Mizoram,Hnahthial,6.0,1,1,Routine Monitoring,Stable Enrolment
+Arunachal Pradesh,Pakke Kessang,7.0,1,1,Routine Monitoring,Stable Enrolment
+Mizoram,Saitual,8.0,4,1,Routine Monitoring,Stable Enrolment
+Sikkim,Namchi,9.0,4,1,Routine Monitoring,Stable Enrolment
+Karnataka,Bijapur(Kar),10.0,2,1,Routine Monitoring,Stable Enrolment
+Chandigarh,Rupnagar,10.0,2,1,Routine Monitoring,Stable Enrolment
+Jammu & Kashmir,Kargil,10.0,1,1,Routine Monitoring,Stable Enrolment
+Jammu & Kashmir,Srinagar,10.0,1,1,Routine Monitoring,Stable Enrolment
+Puducherry,Pondicherry,10.0,1,1,Routine Monitoring,Stable Enrolment
+Orissa,Baleswar,10.0,2,1,Routine Monitoring,Stable Enrolment
+Uttar Pradesh,Raebareli,10.0,2,1,Routine Monitoring,Stable Enrolment
+Himachal Pradesh,Lahaul And Spiti,10.0,2,1,Routine Monitoring,Stable Enrolment
+Jammu & Kashmir,Pulwama,11.0,1,1,Routine Monitoring,Stable Enrolment
+Meghalaya,Jaintia Hills,11.0,4,1,Routine Monitoring,Stable Enrolment
+Tamil Nadu,Tirupathur,11.0,4,1,Routine Monitoring,Stable Enrolment
+Orissa,Baudh,11.0,1,1,Routine Monitoring,Stable Enrolment
+West Bangal,Howrah,11.0,2,1,Routine Monitoring,Stable Enrolment
+Jammu & Kashmir,Anantnag,11.0,2,1,Routine Monitoring,Stable Enrolment
+West Bengal,Hawrah,12.0,2,1,Routine Monitoring,Stable Enrolment
+Meghalaya,Kamrup,13.0,143,1,Special Enrollment Camp (3 days),High Expected Demand
+Jammu & Kashmir,Kupwara,14.0,2,1,Routine Monitoring,Stable Enrolment
+Orissa,Subarnapur,14.0,2,1,Routine Monitoring,Stable Enrolment
+West Bangal,Hooghly,14.0,2,1,Routine Monitoring,Stable Enrolment
+Uttar Pradesh,Kushinagar *,14.0,2,1,Routine Monitoring,Stable Enrolment
+Nagaland,Tseminyu,15.0,7,1,Routine Monitoring,Stable Enrolment
+Puducherry,Yanam,16.0,2,1,Routine Monitoring,Stable Enrolment
+Westbengal,Hooghly,16.0,2,1,Routine Monitoring,Stable Enrolment
+Telangana,Warangal (Urban),16.0,2,1,Routine Monitoring,Stable Enrolment
+Orissa,Debagarh,16.0,2,1,Routine Monitoring,Stable Enrolment
+Andhra Pradesh,Mahabubnagar,16.0,2,1,Routine Monitoring,Stable Enrolment
+Meghalaya,Ri Bhoi,17.0,415,1,Special Enrollment Camp (3 days),High Expected Demand
+Meghalaya,East Jaintia Hills,18.0,162,1,Special Enrollment Camp (3 days),High Expected Demand
+Meghalaya,East Khasi Hills,19.0,1205,3,Special Enrollment Camp (3 days),High Expected Demand
+Meghalaya,West Khasi Hills,20.0,394,1,Special Enrollment Camp (3 days),High Expected Demand
+Orissa,Gajapati,21.0,3,1,Routine Monitoring,Stable Enrolment
+Jammu & Kashmir,Kathua,21.0,3,1,Routine Monitoring,Stable Enrolment
+Meghalaya,South Garo Hills,22.0,184,1,Special Enrollment Camp (3 days),High Expected Demand
+Punjab,Kapurthala,23.0,404,1,Special Enrollment Camp (3 days),High Expected Demand
+Dadra And Nagar Haveli And Daman And Diu,Diu,24.0,7,1,Routine Monitoring,Stable Enrolment
+Meghalaya,South West Khasi Hills,25.0,181,1,Special Enrollment Camp (3 days),High Expected Demand
+Meghalaya,West Jaintia Hills,26.0,364,1,Special Enrollment Camp (3 days),High Expected Demand
+Madhya Pradesh,Pandhurna,27.0,27,1,Routine Monitoring,Stable Enrolment
+West Bengal,Kalimpong,28.0,51,1,Routine Monitoring,Stable Enrolment
+Daman & Diu,Daman,29.0,2,1,Routine Monitoring,Stable Enrolment
+Nagaland,Chumukedima,30.0,19,1,Routine Monitoring,Stable Enrolment
+Meghalaya,West Garo Hills,31.0,638,2,Special Enrollment Camp (3 days),High Expected Demand
+Nagaland,Meluri,32.0,6,1,Routine Monitoring,Stable Enrolment
+Meghalaya,East Garo Hills,33.0,169,1,Special Enrollment Camp (3 days),High Expected Demand
+Manipur,Pherzawl,34.0,1,1,Routine Monitoring,Stable Enrolment
+Orissa,Kalahandi,34.0,3,1,Routine Monitoring,Stable Enrolment
+Arunachal Pradesh,Dibang Valley,34.0,2,1,Routine Monitoring,Stable Enrolment
+Assam,West Karbi Anglong,35.0,89,1,Routine Monitoring,Stable Enrolment
+Assam,Sivasagar,36.0,211,1,Special Enrollment Camp (3 days),High Expected Demand
+Arunachal Pradesh,Shi-Yomi,37.0,9,1,Routine Monitoring,Stable Enrolment
+Assam,Sibsagar,38.0,445,1,Special Enrollment Camp (3 days),High Expected Demand
+Meghalaya,North Garo Hills,39.0,171,1,Special Enrollment Camp (3 days),High Expected Demand
+Maharashtra,Chhatrapati Sambhajinagar,40.0,223,1,Special Enrollment Camp (3 days),High Expected Demand
+Daman & Diu,Diu,41.0,2,1,Routine Monitoring,Stable Enrolment
+Maharashtra,Ahilyanagar,41.0,12,1,Routine Monitoring,Stable Enrolment
+Karnataka,Bengaluru Rural,42.0,552,2,Special Enrollment Camp (3 days),High Expected Demand
+Assam,Kamrup Metro,43.0,980,2,Special Enrollment Camp (3 days),High Expected Demand
+Rajasthan,Deeg,44.0,22,1,Routine Monitoring,Stable Enrolment
+Chhattisgarh,Mohalla-Manpur-Ambagarh Chowki,45.0,4,1,Routine Monitoring,Stable Enrolment
+Assam,Dibrugarh,46.0,595,2,Special Enrollment Camp (3 days),High Expected Demand
+Maharashtra,Dharashiv,47.0,34,1,Routine Monitoring,Stable Enrolment
+Arunachal Pradesh,Kurung Kumey,48.0,16,1,Routine Monitoring,Stable Enrolment
+Chhattisgarh,Bijapur,49.0,785,2,Special Enrollment Camp (3 days),High Expected Demand
+Assam,Tinsukia,50.0,866,2,Special Enrollment Camp (3 days),High Expected Demand
+Arunachal Pradesh,Lower Siang,51.0,6,1,Routine Monitoring,Stable Enrolment
+Gujarat,Dang,52.0,436,1,Special Enrollment Camp (3 days),High Expected Demand
+West  Bengal,Hooghly,53.0,5,1,Routine Monitoring,Stable Enrolment
+Andhra Pradesh,Sri Potti Sriramulu Nellore,54.0,335,1,Special Enrollment Camp (3 days),High Expected Demand
+Meghalaya,South West Garo Hills,55.0,141,1,Special Enrollment Camp (3 days),High Expected Demand
+Assam,Jorhat,56.0,638,2,Special Enrollment Camp (3 days),High Expected Demand
+Andhra Pradesh,K.V. Rangareddy,57.0,3,1,Routine Monitoring,Stable Enrolment
+Nagaland,Niuland,58.0,4,1,Routine Monitoring,Stable Enrolment
+Assam,Dhemaji,59.0,653,2,Special Enrollment Camp (3 days),High Expected Demand
+Assam,Darrang,60.0,1197,3,Special Enrollment Camp (3 days),High Expected Demand
+Assam,Charaideo,61.0,176,1,Special Enrollment Camp (3 days),High Expected Demand
+Assam,Golaghat,62.0,697,2,Special Enrollment Camp (3 days),High Expected Demand
+Karnataka,Bengaluru Urban,63.0,7691,14,Special Enrollment Camp (3 days),High Expected Demand
+Arunachal Pradesh,Anjaw,64.0,5,1,Routine Monitoring,Stable Enrolment
+Arunachal Pradesh,Kamle,65.0,3,1,Routine Monitoring,Stable Enrolment
+Dadra And Nagar Haveli And Daman And Diu,Daman,66.0,13,1,Routine Monitoring,Stable Enrolment
+Uttar Pradesh,Mahrajganj,67.0,4,1,Routine Monitoring,Stable Enrolment
+Mizoram,Saiha,68.0,52,1,Routine Monitoring,Stable Enrolment
+Assam,Bajali,69.0,5,1,Routine Monitoring,Stable Enrolment
+Gujarat,Chhotaudepur,70.0,314,1,Special Enrollment Camp (3 days),High Expected Demand
+Orissa,Sonapur,71.0,4,1,Routine Monitoring,Stable Enrolment
+Delhi,South East Delhi,72.0,13,1,Routine Monitoring,Stable Enrolment
+Andhra Pradesh,Spsr Nellore,73.0,728,2,Special Enrollment Camp (3 days),High Expected Demand
+Tripura,Khowai,74.0,72,1,Routine Monitoring,Stable Enrolment
+Mizoram,Kolasib,75.0,38,1,Routine Monitoring,Stable Enrolment
+Andhra Pradesh,Tirupati,76.0,355,1,Special Enrollment Camp (3 days),High Expected Demand
+Delhi,New Delhi,77.0,38,1,Routine Monitoring,Stable Enrolment
+Assam,Karbi Anglong,78.0,774,2,Special Enrollment Camp (3 days),High Expected Demand
+Assam,North Cachar Hills,79.0,126,1,Special Enrollment Camp (3 days),High Expected Demand
+Assam,Udalguri,80.0,598,2,Special Enrollment Camp (3 days),High Expected Demand
+Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,81.0,16,1,Routine Monitoring,Stable Enrolment
+Gujarat,Dahod,82.0,1155,3,Special Enrollment Camp (3 days),High Expected Demand
+Gujarat,Gandhinagar,83.0,774,2,Special Enrollment Camp (3 days),High Expected Demand
+Karnataka,Chamarajanagar *,84.0,5,1,Routine Monitoring,Stable Enrolment
+Karnataka,Bengaluru,85.0,4147,8,Special Enrollment Camp (3 days),High Expected Demand
+Assam,Dima Hasao,86.0,5,1,Routine Monitoring,Stable Enrolment
+West Bengal,Alipurduar,87.0,230,1,Special Enrollment Camp (3 days),High Expected Demand
+Nagaland,Noklak,88.0,62,1,Routine Monitoring,Stable Enrolment
+Chhattisgarh,Janjgir Champa,89.0,5,1,Routine Monitoring,Stable Enrolment
+Pondicherry,Yanam,89.0,5,1,Routine Monitoring,Stable Enrolment
+Orissa,Sambalpur,89.0,7,1,Routine Monitoring,Stable Enrolment
+Orissa,Jharsuguda,90.0,6,1,Routine Monitoring,Stable Enrolment
+Dadra & Nagar Haveli,Dadra & Nagar Haveli,90.0,5,1,Routine Monitoring,Stable Enrolment
+Assam,Kokrajhar,91.0,490,1,Special Enrollment Camp (3 days),High Expected Demand
+Ladakh,Leh,92.0,32,1,Routine Monitoring,Stable Enrolment
+Assam,Baksa,93.0,468,1,Special Enrollment Camp (3 days),High Expected Demand
+Assam,Sonitpur,94.0,1549,3,Special Enrollment Camp (3 days),High Expected Demand
+Arunachal Pradesh,Upper Subansiri,95.0,28,1,Routine Monitoring,Stable Enrolment
+Andhra Pradesh,Annamayya,96.0,230,1,Special Enrollment Camp (3 days),High Expected Demand
+West Bengal,Darjeeling,97.0,803,2,Special Enrollment Camp (3 days),High Expected Demand
+Bihar,Sheikpura,98.0,5,1,Routine Monitoring,Stable Enrolment
+Nagaland,Shamator,99.0,30,1,Routine Monitoring,Stable Enrolment
+West Bengal,Medinipur,100.0,6,1,Routine Monitoring,Stable Enrolment
+Maharashtra,Gondia,100.0,6,1,Routine Monitoring,Stable Enrolment
+Mizoram,Lunglei,101.0,94,1,Routine Monitoring,Stable Enrolment
+Maharashtra,Washim *,102.0,6,1,Routine Monitoring,Stable Enrolment
+Delhi,Najafgarh,102.0,5,1,Routine Monitoring,Stable Enrolment
+Gujarat,Banaskantha,103.0,2041,4,Special Enrollment Camp (3 days),High Expected Demand
+Arunachal Pradesh,Upper Siang,104.0,9,1,Routine Monitoring,Stable Enrolment
+Arunachal Pradesh,East Kameng,105.0,34,1,Routine Monitoring,Stable Enrolment
+Nagaland,Mokokchung,106.0,45,1,Routine Monitoring,Stable Enrolment
+Orissa,Mayurbhanj,107.0,6,1,Routine Monitoring,Stable Enrolment
+Bihar,Bhabua,107.0,7,1,Routine Monitoring,Stable Enrolment
+Himachal Pradesh,Lahul And Spiti,107.0,7,1,Routine Monitoring,Stable Enrolment
+Gujarat,Devbhumi Dwarka,108.0,263,1,Special Enrollment Camp (3 days),High Expected Demand
+Orissa,Kandhamal,109.0,5,1,Routine Monitoring,Stable Enrolment
+Tripura,Dhalai  *,109.0,5,1,Routine Monitoring,Stable Enrolment
+Assam,Lakhimpur,110.0,796,2,Special Enrollment Camp (3 days),High Expected Demand
+Maharashtra,Chatrapati Sambhaji Nagar,111.0,49,1,Routine Monitoring,Stable Enrolment
+Mizoram,Serchhip,112.0,19,1,Routine Monitoring,Stable Enrolment
+Assam,Cachar,113.0,1498,3,Special Enrollment Camp (3 days),High Expected Demand
+Himachal Pradesh,Kullu,114.0,290,1,Special Enrollment Camp (3 days),High Expected Demand
+Chhattisgarh,Janjgir - Champa,115.0,6,1,Routine Monitoring,Stable Enrolment
+Nagaland,Dimapur,116.0,167,1,Special Enrollment Camp (3 days),High Expected Demand
+Arunachal Pradesh,Kra Daadi,117.0,15,1,Routine Monitoring,Stable Enrolment
+Assam,Sribhumi,118.0,38,1,Routine Monitoring,Stable Enrolment
+Madhya Pradesh,Niwari,119.0,35,1,Routine Monitoring,Stable Enrolment
+Sikkim,West Sikkim,120.0,33,1,Routine Monitoring,Stable Enrolment
+Orissa,Jagatsinghapur,121.0,8,1,Routine Monitoring,Stable Enrolment
+Maharashtra,Ahmednagar,122.0,368,1,Special Enrollment Camp (3 days),High Expected Demand
+West Bengal,24 Paraganas North,123.0,3074,6,Special Enrollment Camp (3 days),High Expected Demand
+Assam,Goalpara,124.0,881,2,Special Enrollment Camp (3 days),High Expected Demand
+Gujarat,Morbi,125.0,453,1,Special Enrollment Camp (3 days),High Expected Demand
+Assam,Chirang,126.0,281,1,Special Enrollment Camp (3 days),High Expected Demand
+Mizoram,Champhai,127.0,102,1,Special Enrollment Camp (3 days),High Expected Demand
+Gujarat,Patan,128.0,692,2,Special Enrollment Camp (3 days),High Expected Demand
+Haryana,Gurugram,129.0,879,2,Special Enrollment Camp (3 days),High Expected Demand
+Assam,Marigaon,130.0,925,2,Special Enrollment Camp (3 days),High Expected Demand
+Nagaland,Mon,131.0,213,1,Special Enrollment Camp (3 days),High Expected Demand
+Andaman & Nicobar Islands,South Andaman,132.0,7,1,Routine Monitoring,Stable Enrolment
+Himachal Pradesh,Lahul & Spiti,132.0,8,1,Routine Monitoring,Stable Enrolment
+Arunachal Pradesh,West Kameng,133.0,36,1,Routine Monitoring,Stable Enrolment
+West Bengal,Paschim Bardhaman,134.0,262,1,Special Enrollment Camp (3 days),High Expected Demand
+Gujarat,Anand,135.0,1067,2,Special Enrollment Camp (3 days),High Expected Demand
+Chhattisgarh,Gaurella Pendra Marwahi,136.0,492,1,Special Enrollment Camp (3 days),High Expected Demand
+Gujarat,Panch Mahals,137.0,15,1,Routine Monitoring,Stable Enrolment
+Gujarat,Porbandar,138.0,257,1,Special Enrollment Camp (3 days),High Expected Demand
+Goa,North Goa,139.0,255,1,Special Enrollment Camp (3 days),High Expected Demand
+Karnataka,Ramanagara,140.0,204,1,Special Enrollment Camp (3 days),High Expected Demand
+Assam,Kamrup,141.0,1291,3,Special Enrollment Camp (3 days),High Expected Demand
+Punjab,S.A.S Nagar,142.0,352,1,Special Enrollment Camp (3 days),High Expected Demand
+West Bengal,Kolkata,143.0,1777,4,Special Enrollment Camp (3 days),High Expected Demand

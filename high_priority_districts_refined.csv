@@ -1,0 +1,210 @@
+state,district,priority_label,priority_rank,forecast_next_month,required_staff,required_kits
+100000,100000,High Priority,1.0,67,1,1
+Andaman & Nicobar Islands,Nicobars,High Priority,2.0,1,1,1
+West Bengal,Hooghiy,High Priority,2.0,1,1,1
+West Bengal,East Midnapur,High Priority,2.0,1,1,1
+Uttar Pradesh,Bagpat,High Priority,2.0,1,1,1
+Rajasthan,Beawar,High Priority,2.0,1,1,1
+Rajasthan,Salumbar,High Priority,2.0,1,1,1
+Orissa,Sundergarh,High Priority,2.0,1,1,1
+Haryana,Jhajjar *,High Priority,2.0,1,1,1
+Jammu & Kashmir,Punch,High Priority,2.0,1,1,1
+Maharashtra,Hingoli *,High Priority,2.0,1,1,1
+Tamil Nadu,Tiruvarur,High Priority,2.0,1,1,1
+Rajasthan,Balotra,High Priority,2.0,1,1,1
+Tamil Nadu,Namakkal   *,High Priority,2.0,1,1,1
+Jammu & Kashmir,Badgam,High Priority,2.0,1,1,1
+Orissa,Kendrapara *,High Priority,2.0,1,1,1
+Meghalaya,Eastern West Khasi Hills,High Priority,3.0,238,1,1
+Sikkim,Mangan,High Priority,4.0,1,1,1
+Arunachal Pradesh,Leparada,High Priority,4.0,1,1,1
+Mizoram,Khawzawl,High Priority,5.0,9,1,1
+Tamil Nadu,Tuticorin,High Priority,6.0,1,1,1
+Orissa,Nabarangapur,High Priority,6.0,1,1,1
+Rajasthan,Didwana-Kuchaman,High Priority,6.0,2,1,1
+Goa,Bardez,High Priority,6.0,1,1,1
+Jharkhand,Bokaro *,High Priority,6.0,1,1,1
+Orissa,Khorda,High Priority,6.0,1,1,1
+West Bengal,South 24 Pargana,High Priority,6.0,1,1,1
+Jammu & Kashmir,Leh (Ladakh),High Priority,6.0,1,1,1
+West Bengal,West Medinipur,High Priority,6.0,2,1,1
+Delhi,North East   *,High Priority,6.0,2,1,1
+Karnataka,Udupi *,High Priority,6.0,2,1,1
+Jammu & Kashmir,Bandipur,High Priority,6.0,1,1,1
+West Bengal,Burdwan,High Priority,6.0,2,1,1
+Telangana,Medchal?Malkajgiri,High Priority,6.0,1,1,1
+Jammu & Kashmir,Doda,High Priority,6.0,2,1,1
+Jammu & Kashmir,Rajauri,High Priority,6.0,1,1,1
+Odisha,Anugal,High Priority,6.0,1,1,1
+Jammu & Kashmir,Udhampur,High Priority,6.0,1,1,1
+Orissa,Nuapada,High Priority,6.0,1,1,1
+Mizoram,Hnahthial,High Priority,6.0,1,1,1
+Arunachal Pradesh,Pakke Kessang,High Priority,7.0,1,1,1
+Mizoram,Saitual,High Priority,8.0,4,1,1
+Sikkim,Namchi,High Priority,9.0,4,1,1
+Karnataka,Bijapur(Kar),High Priority,10.0,2,1,1
+Chandigarh,Rupnagar,High Priority,10.0,2,1,1
+Jammu & Kashmir,Kargil,High Priority,10.0,1,1,1
+Jammu & Kashmir,Srinagar,High Priority,10.0,1,1,1
+Puducherry,Pondicherry,High Priority,10.0,1,1,1
+Orissa,Baleswar,High Priority,10.0,2,1,1
+Uttar Pradesh,Raebareli,High Priority,10.0,2,1,1
+Himachal Pradesh,Lahaul And Spiti,High Priority,10.0,2,1,1
+Jammu & Kashmir,Pulwama,High Priority,11.0,1,1,1
+Meghalaya,Jaintia Hills,High Priority,11.0,4,1,1
+Tamil Nadu,Tirupathur,High Priority,11.0,4,1,1
+Orissa,Baudh,High Priority,11.0,1,1,1
+West Bangal,Howrah,High Priority,11.0,2,1,1
+Jammu & Kashmir,Anantnag,High Priority,11.0,2,1,1
+West Bengal,Hawrah,High Priority,12.0,2,1,1
+Meghalaya,Kamrup,High Priority,13.0,143,1,1
+Jammu & Kashmir,Kupwara,High Priority,14.0,2,1,1
+Orissa,Subarnapur,High Priority,14.0,2,1,1
+West Bangal,Hooghly,High Priority,14.0,2,1,1
+Uttar Pradesh,Kushinagar *,High Priority,14.0,2,1,1
+Nagaland,Tseminyu,High Priority,15.0,7,1,1
+Puducherry,Yanam,High Priority,16.0,2,1,1
+Westbengal,Hooghly,High Priority,16.0,2,1,1
+Telangana,Warangal (Urban),High Priority,16.0,2,1,1
+Orissa,Debagarh,High Priority,16.0,2,1,1
+Andhra Pradesh,Mahabubnagar,High Priority,16.0,2,1,1
+Meghalaya,Ri Bhoi,High Priority,17.0,415,1,1
+Meghalaya,East Jaintia Hills,High Priority,18.0,162,1,1
+Meghalaya,East Khasi Hills,High Priority,19.0,1205,3,3
+Meghalaya,West Khasi Hills,High Priority,20.0,394,1,1
+Orissa,Gajapati,High Priority,21.0,3,1,1
+Jammu & Kashmir,Kathua,High Priority,21.0,3,1,1
+Meghalaya,South Garo Hills,High Priority,22.0,184,1,1
+Punjab,Kapurthala,High Priority,23.0,404,1,1
+Dadra And Nagar Haveli And Daman And Diu,Diu,High Priority,24.0,7,1,1
+Meghalaya,South West Khasi Hills,High Priority,25.0,181,1,1
+Meghalaya,West Jaintia Hills,High Priority,26.0,364,1,1
+Madhya Pradesh,Pandhurna,High Priority,27.0,27,1,1
+West Bengal,Kalimpong,High Priority,28.0,51,1,1
+Daman & Diu,Daman,High Priority,29.0,2,1,1
+Nagaland,Chumukedima,High Priority,30.0,19,1,1
+Meghalaya,West Garo Hills,High Priority,31.0,638,2,2
+Nagaland,Meluri,High Priority,32.0,6,1,1
+Meghalaya,East Garo Hills,High Priority,33.0,169,1,1
+Manipur,Pherzawl,High Priority,34.0,1,1,1
+Orissa,Kalahandi,High Priority,34.0,3,1,1
+Arunachal Pradesh,Dibang Valley,High Priority,34.0,2,1,1
+Assam,West Karbi Anglong,High Priority,35.0,89,1,1
+Assam,Sivasagar,High Priority,36.0,211,1,1
+Arunachal Pradesh,Shi-Yomi,High Priority,37.0,9,1,1
+Assam,Sibsagar,High Priority,38.0,445,1,1
+Meghalaya,North Garo Hills,High Priority,39.0,171,1,1
+Maharashtra,Chhatrapati Sambhajinagar,High Priority,40.0,223,1,1
+Daman & Diu,Diu,High Priority,41.0,2,1,1
+Maharashtra,Ahilyanagar,High Priority,41.0,12,1,1
+Karnataka,Bengaluru Rural,High Priority,42.0,552,2,2
+Assam,Kamrup Metro,High Priority,43.0,980,2,2
+Rajasthan,Deeg,High Priority,44.0,22,1,1
+Chhattisgarh,Mohalla-Manpur-Ambagarh Chowki,High Priority,45.0,4,1,1
+Assam,Dibrugarh,High Priority,46.0,595,2,2
+Maharashtra,Dharashiv,High Priority,47.0,34,1,1
+Arunachal Pradesh,Kurung Kumey,High Priority,48.0,16,1,1
+Chhattisgarh,Bijapur,High Priority,49.0,785,2,2
+Assam,Tinsukia,High Priority,50.0,866,2,2
+Arunachal Pradesh,Lower Siang,High Priority,51.0,6,1,1
+Gujarat,Dang,High Priority,52.0,436,1,1
+West  Bengal,Hooghly,High Priority,53.0,5,1,1
+Andhra Pradesh,Sri Potti Sriramulu Nellore,High Priority,54.0,335,1,1
+Meghalaya,South West Garo Hills,High Priority,55.0,141,1,1
+Assam,Jorhat,High Priority,56.0,638,2,2
+Andhra Pradesh,K.V. Rangareddy,High Priority,57.0,3,1,1
+Nagaland,Niuland,High Priority,58.0,4,1,1
+Assam,Dhemaji,High Priority,59.0,653,2,2
+Assam,Darrang,High Priority,60.0,1197,3,3
+Assam,Charaideo,High Priority,61.0,176,1,1
+Assam,Golaghat,High Priority,62.0,697,2,2
+Karnataka,Bengaluru Urban,High Priority,63.0,7691,14,14
+Arunachal Pradesh,Anjaw,High Priority,64.0,5,1,1
+Arunachal Pradesh,Kamle,High Priority,65.0,3,1,1
+Dadra And Nagar Haveli And Daman And Diu,Daman,High Priority,66.0,13,1,1
+Uttar Pradesh,Mahrajganj,High Priority,67.0,4,1,1
+Mizoram,Saiha,High Priority,68.0,52,1,1
+Assam,Bajali,High Priority,69.0,5,1,1
+Gujarat,Chhotaudepur,High Priority,70.0,314,1,1
+Orissa,Sonapur,High Priority,71.0,4,1,1
+Delhi,South East Delhi,High Priority,72.0,13,1,1
+Andhra Pradesh,Spsr Nellore,High Priority,73.0,728,2,2
+Tripura,Khowai,High Priority,74.0,72,1,1
+Mizoram,Kolasib,High Priority,75.0,38,1,1
+Andhra Pradesh,Tirupati,High Priority,76.0,355,1,1
+Delhi,New Delhi,High Priority,77.0,38,1,1
+Assam,Karbi Anglong,High Priority,78.0,774,2,2
+Assam,North Cachar Hills,High Priority,79.0,126,1,1
+Assam,Udalguri,High Priority,80.0,598,2,2
+Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,High Priority,81.0,16,1,1
+Gujarat,Dahod,High Priority,82.0,1155,3,3
+Gujarat,Gandhinagar,High Priority,83.0,774,2,2
+Karnataka,Chamarajanagar *,High Priority,84.0,5,1,1
+Karnataka,Bengaluru,High Priority,85.0,4147,8,8
+Assam,Dima Hasao,High Priority,86.0,5,1,1
+West Bengal,Alipurduar,High Priority,87.0,230,1,1
+Nagaland,Noklak,High Priority,88.0,62,1,1
+Chhattisgarh,Janjgir Champa,High Priority,89.0,5,1,1
+Pondicherry,Yanam,High Priority,89.0,5,1,1
+Orissa,Sambalpur,High Priority,89.0,7,1,1
+Orissa,Jharsuguda,High Priority,90.0,6,1,1
+Dadra & Nagar Haveli,Dadra & Nagar Haveli,High Priority,90.0,5,1,1
+Assam,Kokrajhar,High Priority,91.0,490,1,1
+Ladakh,Leh,High Priority,92.0,32,1,1
+Assam,Baksa,High Priority,93.0,468,1,1
+Assam,Sonitpur,High Priority,94.0,1549,3,3
+Arunachal Pradesh,Upper Subansiri,High Priority,95.0,28,1,1
+Andhra Pradesh,Annamayya,High Priority,96.0,230,1,1
+West Bengal,Darjeeling,High Priority,97.0,803,2,2
+Bihar,Sheikpura,High Priority,98.0,5,1,1
+Nagaland,Shamator,High Priority,99.0,30,1,1
+West Bengal,Medinipur,High Priority,100.0,6,1,1
+Maharashtra,Gondia,High Priority,100.0,6,1,1
+Mizoram,Lunglei,High Priority,101.0,94,1,1
+Maharashtra,Washim *,High Priority,102.0,6,1,1
+Delhi,Najafgarh,High Priority,102.0,5,1,1
+Gujarat,Banaskantha,High Priority,103.0,2041,4,4
+Arunachal Pradesh,Upper Siang,High Priority,104.0,9,1,1
+Arunachal Pradesh,East Kameng,High Priority,105.0,34,1,1
+Nagaland,Mokokchung,High Priority,106.0,45,1,1
+Orissa,Mayurbhanj,High Priority,107.0,6,1,1
+Bihar,Bhabua,High Priority,107.0,7,1,1
+Himachal Pradesh,Lahul And Spiti,High Priority,107.0,7,1,1
+Gujarat,Devbhumi Dwarka,High Priority,108.0,263,1,1
+Orissa,Kandhamal,High Priority,109.0,5,1,1
+Tripura,Dhalai  *,High Priority,109.0,5,1,1
+Assam,Lakhimpur,High Priority,110.0,796,2,2
+Maharashtra,Chatrapati Sambhaji Nagar,High Priority,111.0,49,1,1
+Mizoram,Serchhip,High Priority,112.0,19,1,1
+Assam,Cachar,High Priority,113.0,1498,3,3
+Himachal Pradesh,Kullu,High Priority,114.0,290,1,1
+Chhattisgarh,Janjgir - Champa,High Priority,115.0,6,1,1
+Nagaland,Dimapur,High Priority,116.0,167,1,1
+Arunachal Pradesh,Kra Daadi,High Priority,117.0,15,1,1
+Assam,Sribhumi,High Priority,118.0,38,1,1
+Madhya Pradesh,Niwari,High Priority,119.0,35,1,1
+Sikkim,West Sikkim,High Priority,120.0,33,1,1
+Orissa,Jagatsinghapur,High Priority,121.0,8,1,1
+Maharashtra,Ahmednagar,High Priority,122.0,368,1,1
+West Bengal,24 Paraganas North,High Priority,123.0,3074,6,6
+Assam,Goalpara,High Priority,124.0,881,2,2
+Gujarat,Morbi,High Priority,125.0,453,1,1
+Assam,Chirang,High Priority,126.0,281,1,1
+Mizoram,Champhai,High Priority,127.0,102,1,1
+Gujarat,Patan,High Priority,128.0,692,2,2
+Haryana,Gurugram,High Priority,129.0,879,2,2
+Assam,Marigaon,High Priority,130.0,925,2,2
+Nagaland,Mon,High Priority,131.0,213,1,1
+Andaman & Nicobar Islands,South Andaman,High Priority,132.0,7,1,1
+Himachal Pradesh,Lahul & Spiti,High Priority,132.0,8,1,1
+Arunachal Pradesh,West Kameng,High Priority,133.0,36,1,1
+West Bengal,Paschim Bardhaman,High Priority,134.0,262,1,1
+Gujarat,Anand,High Priority,135.0,1067,2,2
+Chhattisgarh,Gaurella Pendra Marwahi,High Priority,136.0,492,1,1
+Gujarat,Panch Mahals,High Priority,137.0,15,1,1
+Gujarat,Porbandar,High Priority,138.0,257,1,1
+Goa,North Goa,High Priority,139.0,255,1,1
+Karnataka,Ramanagara,High Priority,140.0,204,1,1
+Assam,Kamrup,High Priority,141.0,1291,3,3
+Punjab,S.A.S Nagar,High Priority,142.0,352,1,1
+West Bengal,Kolkata,High Priority,143.0,1777,4,4

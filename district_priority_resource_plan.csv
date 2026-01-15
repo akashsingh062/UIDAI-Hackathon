@@ -1,0 +1,1046 @@
+state,district,priority_label,priority_rank,forecast_next_month,required_staff,required_kits
+100000,100000,High Priority,1.0,67,1,1
+Andaman & Nicobar Islands,Nicobars,High Priority,2.0,1,1,1
+West Bengal,Hooghiy,High Priority,2.0,1,1,1
+West Bengal,East Midnapur,High Priority,2.0,1,1,1
+Uttar Pradesh,Bagpat,High Priority,2.0,1,1,1
+Rajasthan,Beawar,High Priority,2.0,1,1,1
+Rajasthan,Salumbar,High Priority,2.0,1,1,1
+Orissa,Sundergarh,High Priority,2.0,1,1,1
+Haryana,Jhajjar *,High Priority,2.0,1,1,1
+Jammu & Kashmir,Punch,High Priority,2.0,1,1,1
+Maharashtra,Hingoli *,High Priority,2.0,1,1,1
+Tamil Nadu,Tiruvarur,High Priority,2.0,1,1,1
+Rajasthan,Balotra,High Priority,2.0,1,1,1
+Tamil Nadu,Namakkal   *,High Priority,2.0,1,1,1
+Jammu & Kashmir,Badgam,High Priority,2.0,1,1,1
+Orissa,Kendrapara *,High Priority,2.0,1,1,1
+Meghalaya,Eastern West Khasi Hills,High Priority,3.0,238,1,1
+Sikkim,Mangan,High Priority,4.0,1,1,1
+Arunachal Pradesh,Leparada,High Priority,4.0,1,1,1
+Mizoram,Khawzawl,High Priority,5.0,9,1,1
+Tamil Nadu,Tuticorin,High Priority,6.0,1,1,1
+Orissa,Nabarangapur,High Priority,6.0,1,1,1
+Rajasthan,Didwana-Kuchaman,High Priority,6.0,2,1,1
+Goa,Bardez,High Priority,6.0,1,1,1
+Jharkhand,Bokaro *,High Priority,6.0,1,1,1
+Orissa,Khorda,High Priority,6.0,1,1,1
+West Bengal,South 24 Pargana,High Priority,6.0,1,1,1
+Jammu & Kashmir,Leh (Ladakh),High Priority,6.0,1,1,1
+West Bengal,West Medinipur,High Priority,6.0,2,1,1
+Delhi,North East   *,High Priority,6.0,2,1,1
+Karnataka,Udupi *,High Priority,6.0,2,1,1
+Jammu & Kashmir,Bandipur,High Priority,6.0,1,1,1
+West Bengal,Burdwan,High Priority,6.0,2,1,1
+Telangana,Medchal?Malkajgiri,High Priority,6.0,1,1,1
+Jammu & Kashmir,Doda,High Priority,6.0,2,1,1
+Jammu & Kashmir,Rajauri,High Priority,6.0,1,1,1
+Odisha,Anugal,High Priority,6.0,1,1,1
+Jammu & Kashmir,Udhampur,High Priority,6.0,1,1,1
+Orissa,Nuapada,High Priority,6.0,1,1,1
+Mizoram,Hnahthial,High Priority,6.0,1,1,1
+Arunachal Pradesh,Pakke Kessang,High Priority,7.0,1,1,1
+Mizoram,Saitual,High Priority,8.0,4,1,1
+Sikkim,Namchi,High Priority,9.0,4,1,1
+Karnataka,Bijapur(Kar),High Priority,10.0,2,1,1
+Chandigarh,Rupnagar,High Priority,10.0,2,1,1
+Jammu & Kashmir,Kargil,High Priority,10.0,1,1,1
+Jammu & Kashmir,Srinagar,High Priority,10.0,1,1,1
+Puducherry,Pondicherry,High Priority,10.0,1,1,1
+Orissa,Baleswar,High Priority,10.0,2,1,1
+Uttar Pradesh,Raebareli,High Priority,10.0,2,1,1
+Himachal Pradesh,Lahaul And Spiti,High Priority,10.0,2,1,1
+Jammu & Kashmir,Pulwama,High Priority,11.0,1,1,1
+Meghalaya,Jaintia Hills,High Priority,11.0,4,1,1
+Tamil Nadu,Tirupathur,High Priority,11.0,4,1,1
+Orissa,Baudh,High Priority,11.0,1,1,1
+West Bangal,Howrah,High Priority,11.0,2,1,1
+Jammu & Kashmir,Anantnag,High Priority,11.0,2,1,1
+West Bengal,Hawrah,High Priority,12.0,2,1,1
+Meghalaya,Kamrup,High Priority,13.0,143,1,1
+Jammu & Kashmir,Kupwara,High Priority,14.0,2,1,1
+Orissa,Subarnapur,High Priority,14.0,2,1,1
+West Bangal,Hooghly,High Priority,14.0,2,1,1
+Uttar Pradesh,Kushinagar *,High Priority,14.0,2,1,1
+Nagaland,Tseminyu,High Priority,15.0,7,1,1
+Puducherry,Yanam,High Priority,16.0,2,1,1
+Westbengal,Hooghly,High Priority,16.0,2,1,1
+Telangana,Warangal (Urban),High Priority,16.0,2,1,1
+Orissa,Debagarh,High Priority,16.0,2,1,1
+Andhra Pradesh,Mahabubnagar,High Priority,16.0,2,1,1
+Meghalaya,Ri Bhoi,High Priority,17.0,415,1,1
+Meghalaya,East Jaintia Hills,High Priority,18.0,162,1,1
+Meghalaya,East Khasi Hills,High Priority,19.0,1205,3,3
+Meghalaya,West Khasi Hills,High Priority,20.0,394,1,1
+Orissa,Gajapati,High Priority,21.0,3,1,1
+Jammu & Kashmir,Kathua,High Priority,21.0,3,1,1
+Meghalaya,South Garo Hills,High Priority,22.0,184,1,1
+Punjab,Kapurthala,High Priority,23.0,404,1,1
+Dadra And Nagar Haveli And Daman And Diu,Diu,High Priority,24.0,7,1,1
+Meghalaya,South West Khasi Hills,High Priority,25.0,181,1,1
+Meghalaya,West Jaintia Hills,High Priority,26.0,364,1,1
+Madhya Pradesh,Pandhurna,High Priority,27.0,27,1,1
+West Bengal,Kalimpong,High Priority,28.0,51,1,1
+Daman & Diu,Daman,High Priority,29.0,2,1,1
+Nagaland,Chumukedima,High Priority,30.0,19,1,1
+Meghalaya,West Garo Hills,High Priority,31.0,638,2,2
+Nagaland,Meluri,High Priority,32.0,6,1,1
+Meghalaya,East Garo Hills,High Priority,33.0,169,1,1
+Manipur,Pherzawl,High Priority,34.0,1,1,1
+Orissa,Kalahandi,High Priority,34.0,3,1,1
+Arunachal Pradesh,Dibang Valley,High Priority,34.0,2,1,1
+Assam,West Karbi Anglong,High Priority,35.0,89,1,1
+Assam,Sivasagar,High Priority,36.0,211,1,1
+Arunachal Pradesh,Shi-Yomi,High Priority,37.0,9,1,1
+Assam,Sibsagar,High Priority,38.0,445,1,1
+Meghalaya,North Garo Hills,High Priority,39.0,171,1,1
+Maharashtra,Chhatrapati Sambhajinagar,High Priority,40.0,223,1,1
+Daman & Diu,Diu,High Priority,41.0,2,1,1
+Maharashtra,Ahilyanagar,High Priority,41.0,12,1,1
+Karnataka,Bengaluru Rural,High Priority,42.0,552,2,2
+Assam,Kamrup Metro,High Priority,43.0,980,2,2
+Rajasthan,Deeg,High Priority,44.0,22,1,1
+Chhattisgarh,Mohalla-Manpur-Ambagarh Chowki,High Priority,45.0,4,1,1
+Assam,Dibrugarh,High Priority,46.0,595,2,2
+Maharashtra,Dharashiv,High Priority,47.0,34,1,1
+Arunachal Pradesh,Kurung Kumey,High Priority,48.0,16,1,1
+Chhattisgarh,Bijapur,High Priority,49.0,785,2,2
+Assam,Tinsukia,High Priority,50.0,866,2,2
+Arunachal Pradesh,Lower Siang,High Priority,51.0,6,1,1
+Gujarat,Dang,High Priority,52.0,436,1,1
+West  Bengal,Hooghly,High Priority,53.0,5,1,1
+Andhra Pradesh,Sri Potti Sriramulu Nellore,High Priority,54.0,335,1,1
+Meghalaya,South West Garo Hills,High Priority,55.0,141,1,1
+Assam,Jorhat,High Priority,56.0,638,2,2
+Andhra Pradesh,K.V. Rangareddy,High Priority,57.0,3,1,1
+Nagaland,Niuland,High Priority,58.0,4,1,1
+Assam,Dhemaji,High Priority,59.0,653,2,2
+Assam,Darrang,High Priority,60.0,1197,3,3
+Assam,Charaideo,High Priority,61.0,176,1,1
+Assam,Golaghat,High Priority,62.0,697,2,2
+Karnataka,Bengaluru Urban,High Priority,63.0,7691,14,14
+Arunachal Pradesh,Anjaw,High Priority,64.0,5,1,1
+Arunachal Pradesh,Kamle,High Priority,65.0,3,1,1
+Dadra And Nagar Haveli And Daman And Diu,Daman,High Priority,66.0,13,1,1
+Uttar Pradesh,Mahrajganj,High Priority,67.0,4,1,1
+Mizoram,Saiha,High Priority,68.0,52,1,1
+Assam,Bajali,High Priority,69.0,5,1,1
+Gujarat,Chhotaudepur,High Priority,70.0,314,1,1
+Orissa,Sonapur,High Priority,71.0,4,1,1
+Delhi,South East Delhi,High Priority,72.0,13,1,1
+Andhra Pradesh,Spsr Nellore,High Priority,73.0,728,2,2
+Tripura,Khowai,High Priority,74.0,72,1,1
+Mizoram,Kolasib,High Priority,75.0,38,1,1
+Andhra Pradesh,Tirupati,High Priority,76.0,355,1,1
+Delhi,New Delhi,High Priority,77.0,38,1,1
+Assam,Karbi Anglong,High Priority,78.0,774,2,2
+Assam,North Cachar Hills,High Priority,79.0,126,1,1
+Assam,Udalguri,High Priority,80.0,598,2,2
+Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,High Priority,81.0,16,1,1
+Gujarat,Dahod,High Priority,82.0,1155,3,3
+Gujarat,Gandhinagar,High Priority,83.0,774,2,2
+Karnataka,Chamarajanagar *,High Priority,84.0,5,1,1
+Karnataka,Bengaluru,High Priority,85.0,4147,8,8
+Assam,Dima Hasao,High Priority,86.0,5,1,1
+West Bengal,Alipurduar,High Priority,87.0,230,1,1
+Nagaland,Noklak,High Priority,88.0,62,1,1
+Chhattisgarh,Janjgir Champa,High Priority,89.0,5,1,1
+Pondicherry,Yanam,High Priority,89.0,5,1,1
+Orissa,Sambalpur,High Priority,89.0,7,1,1
+Orissa,Jharsuguda,High Priority,90.0,6,1,1
+Dadra & Nagar Haveli,Dadra & Nagar Haveli,High Priority,90.0,5,1,1
+Assam,Kokrajhar,High Priority,91.0,490,1,1
+Ladakh,Leh,High Priority,92.0,32,1,1
+Assam,Baksa,High Priority,93.0,468,1,1
+Assam,Sonitpur,High Priority,94.0,1549,3,3
+Arunachal Pradesh,Upper Subansiri,High Priority,95.0,28,1,1
+Andhra Pradesh,Annamayya,High Priority,96.0,230,1,1
+West Bengal,Darjeeling,High Priority,97.0,803,2,2
+Bihar,Sheikpura,High Priority,98.0,5,1,1
+Nagaland,Shamator,High Priority,99.0,30,1,1
+West Bengal,Medinipur,High Priority,100.0,6,1,1
+Maharashtra,Gondia,High Priority,100.0,6,1,1
+Mizoram,Lunglei,High Priority,101.0,94,1,1
+Maharashtra,Washim *,High Priority,102.0,6,1,1
+Delhi,Najafgarh,High Priority,102.0,5,1,1
+Gujarat,Banaskantha,High Priority,103.0,2041,4,4
+Arunachal Pradesh,Upper Siang,High Priority,104.0,9,1,1
+Arunachal Pradesh,East Kameng,High Priority,105.0,34,1,1
+Nagaland,Mokokchung,High Priority,106.0,45,1,1
+Orissa,Mayurbhanj,High Priority,107.0,6,1,1
+Bihar,Bhabua,High Priority,107.0,7,1,1
+Himachal Pradesh,Lahul And Spiti,High Priority,107.0,7,1,1
+Gujarat,Devbhumi Dwarka,High Priority,108.0,263,1,1
+Orissa,Kandhamal,High Priority,109.0,5,1,1
+Tripura,Dhalai  *,High Priority,109.0,5,1,1
+Assam,Lakhimpur,High Priority,110.0,796,2,2
+Maharashtra,Chatrapati Sambhaji Nagar,High Priority,111.0,49,1,1
+Mizoram,Serchhip,High Priority,112.0,19,1,1
+Assam,Cachar,High Priority,113.0,1498,3,3
+Himachal Pradesh,Kullu,High Priority,114.0,290,1,1
+Chhattisgarh,Janjgir - Champa,High Priority,115.0,6,1,1
+Nagaland,Dimapur,High Priority,116.0,167,1,1
+Arunachal Pradesh,Kra Daadi,High Priority,117.0,15,1,1
+Assam,Sribhumi,High Priority,118.0,38,1,1
+Madhya Pradesh,Niwari,High Priority,119.0,35,1,1
+Sikkim,West Sikkim,High Priority,120.0,33,1,1
+Orissa,Jagatsinghapur,High Priority,121.0,8,1,1
+Maharashtra,Ahmednagar,High Priority,122.0,368,1,1
+West Bengal,24 Paraganas North,High Priority,123.0,3074,6,6
+Assam,Goalpara,High Priority,124.0,881,2,2
+Gujarat,Morbi,High Priority,125.0,453,1,1
+Assam,Chirang,High Priority,126.0,281,1,1
+Mizoram,Champhai,High Priority,127.0,102,1,1
+Gujarat,Patan,High Priority,128.0,692,2,2
+Haryana,Gurugram,High Priority,129.0,879,2,2
+Assam,Marigaon,High Priority,130.0,925,2,2
+Nagaland,Mon,High Priority,131.0,213,1,1
+Andaman & Nicobar Islands,South Andaman,High Priority,132.0,7,1,1
+Himachal Pradesh,Lahul & Spiti,High Priority,132.0,8,1,1
+Arunachal Pradesh,West Kameng,High Priority,133.0,36,1,1
+West Bengal,Paschim Bardhaman,High Priority,134.0,262,1,1
+Gujarat,Anand,High Priority,135.0,1067,2,2
+Chhattisgarh,Gaurella Pendra Marwahi,High Priority,136.0,492,1,1
+Gujarat,Panch Mahals,High Priority,137.0,15,1,1
+Gujarat,Porbandar,High Priority,138.0,257,1,1
+Goa,North Goa,High Priority,139.0,255,1,1
+Karnataka,Ramanagara,High Priority,140.0,204,1,1
+Assam,Kamrup,High Priority,141.0,1291,3,3
+Punjab,S.A.S Nagar,High Priority,142.0,352,1,1
+West Bengal,Kolkata,High Priority,143.0,1777,4,4
+Nagaland,Peren,Medium Priority,144.0,43,1,1
+Kerala,Thrissur,Medium Priority,145.0,1716,4,4
+Gujarat,Tapi,Medium Priority,146.0,348,1,1
+Gujarat,Kheda,Medium Priority,147.0,1231,3,3
+Nagaland,Kohima,Medium Priority,148.0,113,1,1
+Arunachal Pradesh,Siang,Medium Priority,149.0,9,1,1
+Assam,Bongaigaon,Medium Priority,150.0,405,1,1
+Gujarat,Sabarkantha,Medium Priority,151.0,774,2,2
+Goa,South Goa,Medium Priority,152.0,200,1,1
+Nagaland,Zunheboto,Medium Priority,153.0,92,1,1
+Kerala,Thiruvananthapuram,Medium Priority,154.0,1547,3,3
+Sikkim,North,Medium Priority,155.0,9,1,1
+Andhra Pradesh,Visakhapatanam,Medium Priority,156.0,226,1,1
+Gujarat,Gir Somnath,Medium Priority,157.0,494,1,1
+Gujarat,Sabar Kantha,Medium Priority,158.0,32,1,1
+Arunachal Pradesh,Tawang,Medium Priority,159.0,28,1,1
+Bihar,Sitamarhi,Medium Priority,160.0,3288,6,6
+Uttar Pradesh,Prayagraj,Medium Priority,161.0,369,1,1
+Orissa,Malkangiri,Medium Priority,162.0,8,1,1
+Jammu & Kashmir,Baramula,Medium Priority,162.0,10,1,1
+Nagaland,Kiphire,Medium Priority,163.0,125,1,1
+Sikkim,East Sikkim,Medium Priority,164.0,62,1,1
+Assam,Biswanath,Medium Priority,165.0,228,1,1
+Tamil Nadu,Kanchipuram,Medium Priority,166.0,118,1,1
+Mizoram,Lawngtlai,Medium Priority,167.0,163,1,1
+Sikkim,South Sikkim,Medium Priority,168.0,27,1,1
+Orissa,Kendujhar,Medium Priority,169.0,10,1,1
+Tamil Nadu,Chengalpattu,Medium Priority,170.0,222,1,1
+Chhattisgarh,Gaurela-Pendra-Marwahi,Medium Priority,171.0,28,1,1
+Orissa,Anugul,Medium Priority,172.0,11,1,1
+Bihar,Monghyr,Medium Priority,172.0,11,1,1
+Nagaland,Wokha,Medium Priority,173.0,37,1,1
+Uttar Pradesh,Bahraich,Medium Priority,174.0,3052,6,6
+Karnataka,Mysuru,Medium Priority,175.0,723,2,2
+Gujarat,The Dangs,Medium Priority,176.0,168,1,1
+Gujarat,Amreli,Medium Priority,177.0,671,2,2
+Gujarat,Banas Kantha,Medium Priority,178.0,35,1,1
+Madhya Pradesh,Shivpuri,Medium Priority,179.0,1765,4,4
+Nagaland,Longleng,Medium Priority,180.0,20,1,1
+Orissa,Kendrapara,Medium Priority,181.0,11,1,1
+Gujarat,Botad,Medium Priority,182.0,223,1,1
+Gujarat,Kachchh,Medium Priority,183.0,1370,3,3
+Chhattisgarh,Sukma,Medium Priority,184.0,283,1,1
+Maharashtra,Mumbai City,Medium Priority,185.0,694,2,2
+Uttarakhand,Garhwal,Medium Priority,186.0,11,1,1
+Assam,Hailakandi,Medium Priority,187.0,719,2,2
+Nagaland,Tuensang,Medium Priority,188.0,104,1,1
+Gujarat,Surendranagar,Medium Priority,189.0,28,1,1
+West Bengal,Jhargram,Medium Priority,190.0,177,1,1
+Jammu And Kashmir,Shopian,Medium Priority,191.0,412,1,1
+Madhya Pradesh,Maihar,Medium Priority,192.0,90,1,1
+Gujarat,Rajkot,Medium Priority,193.0,1816,4,4
+Maharashtra,Gondiya *,Medium Priority,194.0,12,1,1
+Assam,Tamulpur District,Medium Priority,194.0,13,1,1
+Bihar,Purbi Champaran,Medium Priority,195.0,4957,10,10
+Madhya Pradesh,Alirajpur,Medium Priority,196.0,926,2,2
+Punjab,Hoshiarpur,Medium Priority,197.0,612,2,2
+Gujarat,Panchmahals,Medium Priority,198.0,968,2,2
+Assam,Nalbari,Medium Priority,199.0,648,2,2
+Daman And Diu,Daman,Medium Priority,200.0,13,1,1
+Delhi,West Delhi,Medium Priority,201.0,1544,3,3
+Gujarat,Mahisagar,Medium Priority,202.0,331,1,1
+Gujarat,Dohad,Medium Priority,203.0,315,1,1
+Kerala,Ernakulam,Medium Priority,204.0,1398,3,3
+Andhra Pradesh,N. T. R,Medium Priority,205.0,206,1,1
+Daman And Diu,Diu,Medium Priority,206.0,15,1,1
+West Bengal,Jalpaiguri,Medium Priority,207.0,1681,4,4
+West Bengal,24 Paraganas South,Medium Priority,208.0,490,1,1
+Gujarat,Surendra Nagar,Medium Priority,209.0,1036,2,2
+Himachal Pradesh,Kinnaur,Medium Priority,210.0,36,1,1
+Haryana,Yamunanagar,Medium Priority,211.0,14,1,1
+Mizoram,Aizawl,Medium Priority,212.0,216,1,1
+Karnataka,Bangalore Rural,Medium Priority,213.0,569,2,2
+Delhi,Central Delhi,Medium Priority,214.0,453,1,1
+Jammu & Kashmir,Jammu,Medium Priority,215.0,14,1,1
+Sikkim,North Sikkim,Medium Priority,215.0,14,1,1
+Gujarat,Arvalli,Medium Priority,216.0,301,1,1
+Arunachal Pradesh,Lower Dibang Valley,Medium Priority,217.0,20,1,1
+West Bengal,Nadia,Medium Priority,218.0,2977,6,6
+West Bengal,North 24 Parganas,Medium Priority,219.0,5540,11,11
+Punjab,Ludhiana,Medium Priority,220.0,1610,3,3
+Telangana,Medchal Malkajgiri,Medium Priority,221.0,352,1,1
+Gujarat,Mahesana,Medium Priority,222.0,959,2,2
+Madhya Pradesh,Bhind,Medium Priority,223.0,1443,3,3
+Maharashtra,Hingoli,Medium Priority,224.0,652,2,2
+Telangana,Ranga Reddy,Medium Priority,225.0,284,1,1
+Gujarat,Vadodara,Medium Priority,226.0,2041,4,4
+Punjab,Shaheed Bhagat Singh Nagar,Medium Priority,227.0,191,1,1
+Gujarat,Jamnagar,Medium Priority,228.0,854,2,2
+Madhya Pradesh,Gwalior,Medium Priority,229.0,2062,4,4
+Tripura,Unakoti,Medium Priority,230.0,134,1,1
+Arunachal Pradesh,Tirap,Medium Priority,231.0,21,1,1
+Arunachal Pradesh,Longding,Medium Priority,232.0,49,1,1
+Madhya Pradesh,Narmadapuram,Medium Priority,233.0,151,1,1
+Andhra Pradesh,K.V.Rangareddy,Medium Priority,234.0,13,1,1
+West Bengal,Purba Bardhaman,Medium Priority,235.0,618,2,2
+Maharashtra,Mumbai Suburban,Medium Priority,236.0,2381,5,5
+Gujarat,Bhavnagar,Medium Priority,237.0,1384,3,3
+Andhra Pradesh,Y. S. R,Medium Priority,238.0,179,1,1
+Kerala,Kollam,Medium Priority,239.0,1172,3,3
+West Bengal,Coochbehar,Medium Priority,240.0,1470,3,3
+The Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,Medium Priority,241.0,358,1,1
+Rajasthan,Jodhpur,Medium Priority,242.0,2970,6,6
+Jammu And Kashmir,Srinagar,Medium Priority,243.0,690,2,2
+Maharashtra,Dhule,Medium Priority,244.0,1330,3,3
+Assam,Karimganj,Medium Priority,245.0,1669,4,4
+Karnataka,Bengaluru South,Medium Priority,246.0,64,1,1
+Manipur,Bishnupur,Medium Priority,247.0,200,1,1
+Nagaland,Phek,Medium Priority,248.0,120,1,1
+Madhya Pradesh,Burhanpur,Medium Priority,249.0,694,2,2
+Andaman & Nicobar Islands,Andamans,Medium Priority,250.0,15,1,1
+Uttar Pradesh,Shravasti,Medium Priority,251.0,1268,3,3
+Andaman And Nicobar Islands,Nicobar,Medium Priority,252.0,9,1,1
+Odisha,Khorda,Medium Priority,253.0,894,2,2
+Delhi,Shahdara,Medium Priority,254.0,87,1,1
+Delhi,South West Delhi,Medium Priority,255.0,1383,3,3
+Andhra Pradesh,Bapatla,Medium Priority,256.0,116,1,1
+Kerala,Kannur,Medium Priority,257.0,1393,3,3
+Sikkim,West,Medium Priority,258.0,36,1,1
+Mizoram,Mammit,Medium Priority,259.0,19,1,1
+Jharkhand,East Singhbum,Medium Priority,260.0,1447,3,3
+Kerala,Pathanamthitta,Medium Priority,261.0,449,1,1
+Gujarat,Navsari,Medium Priority,262.0,438,1,1
+Telangana,Jangaon,Medium Priority,263.0,17,1,1
+Tamil Nadu,Kallakurichi,Medium Priority,264.0,188,1,1
+Bihar,Samstipur,Medium Priority,265.0,18,1,1
+Assam,Barpeta,Medium Priority,266.0,1432,3,3
+Kerala,Alappuzha,Medium Priority,267.0,829,2,2
+Uttar Pradesh,Jyotiba Phule Nagar,Medium Priority,268.0,18,1,1
+Uttar Pradesh,Sant Ravidas Nagar Bhadohi,Medium Priority,268.0,16,1,1
+Puducherry,Karaikal,Medium Priority,269.0,82,1,1
+West Bengal,Dinajpur Dakshin,Medium Priority,270.0,997,2,2
+Karnataka,Kodagu,Medium Priority,271.0,300,1,1
+Gujarat,Ahmadabad,Medium Priority,272.0,193,1,1
+Rajasthan,Sirohi,Medium Priority,273.0,1143,3,3
+Andhra Pradesh,Karim Nagar,Medium Priority,274.0,19,1,1
+Karnataka,Chikkamagaluru,Medium Priority,275.0,262,1,1
+Manipur,Kakching,Medium Priority,276.0,24,1,1
+Maharashtra,Pune,Medium Priority,277.0,5664,11,11
+Delhi,South Delhi,Medium Priority,278.0,2291,5,5
+Uttar Pradesh,Siddharth Nagar,Medium Priority,279.0,2170,4,4
+Tamil Nadu,Ranipet,Medium Priority,280.0,25,1,1
+West Bengal,Medinipur West,Medium Priority,281.0,322,1,1
+Mizoram,Mamit,Medium Priority,282.0,38,1,1
+Maharashtra,Raigarh(Mh),Medium Priority,283.0,18,1,1
+Bihar,Pashchim Champaran,Medium Priority,284.0,17,1,1
+Madhya Pradesh,Dhar,Medium Priority,285.0,2118,4,4
+Assam,South Salmara Mankachar,Medium Priority,286.0,216,1,1
+Madhya Pradesh,Khargone,Medium Priority,287.0,1639,3,3
+Odisha,Nabarangpur,Medium Priority,288.0,442,1,1
+Uttar Pradesh,Gautam Buddha Nagar,Medium Priority,289.0,1775,4,4
+Manipur,Tamenglong,Medium Priority,290.0,221,1,1
+Andhra Pradesh,Palnadu,Medium Priority,291.0,182,1,1
+Orissa,Bargarh,Medium Priority,292.0,12,1,1
+Chhattisgarh,Sarangarh-Bilaigarh,Medium Priority,293.0,50,1,1
+Madhya Pradesh,Ashok Nagar,Medium Priority,294.0,750,2,2
+Odisha,Khordha,Medium Priority,295.0,89,1,1
+Maharashtra,Parbhani,Medium Priority,296.0,1152,3,3
+Rajasthan,Jalore,Medium Priority,297.0,165,1,1
+Madhya Pradesh,Ashoknagar,Medium Priority,298.0,1506,3,3
+Andhra Pradesh,Kakinada,Medium Priority,299.0,220,1,1
+Gujarat,Ahmedabad,Medium Priority,300.0,3439,7,7
+Bihar,Madhubani,Medium Priority,301.0,4163,8,8
+Tamil Nadu,Ariyalur,Medium Priority,302.0,527,1,1
+Andhra Pradesh,Eluru,Medium Priority,303.0,142,1,1
+Gujarat,Valsad,Medium Priority,304.0,1079,2,2
+Maharashtra,Raigad,Medium Priority,305.0,412,1,1
+Assam,Nagaon,Medium Priority,306.0,1645,3,3
+Bihar,Patna,Medium Priority,307.0,3402,7,7
+Kerala,Kozhikode,Medium Priority,308.0,1603,3,3
+Uttar Pradesh,Agra,Medium Priority,309.0,3434,7,7
+Madhya Pradesh,Barwani,Medium Priority,310.0,1573,3,3
+Andhra Pradesh,Dr. B. R. Ambedkar Konaseema,Medium Priority,311.0,144,1,1
+Andhra Pradesh,Alluri Sitharama Raju,Medium Priority,312.0,276,1,1
+Uttar Pradesh,Shrawasti,Medium Priority,313.0,712,2,2
+Bihar,Jehanabad,Medium Priority,314.0,913,2,2
+Arunachal Pradesh,East Siang,Medium Priority,315.0,36,1,1
+Haryana,Nuh,Medium Priority,316.0,1506,3,3
+Madhya Pradesh,Morena,Medium Priority,317.0,2561,5,5
+Orissa,Nayagarh,Medium Priority,318.0,20,1,1
+Assam,Dhubri,Medium Priority,319.0,1578,3,3
+Maharashtra,Nandurbar *,Medium Priority,320.0,24,1,1
+West Bengal,Dinajpur Uttar,Medium Priority,321.0,3890,8,8
+Uttar Pradesh,Siddharthnagar,Medium Priority,322.0,2152,4,4
+Manipur,Imphal West,Medium Priority,323.0,270,1,1
+Jammu And Kashmir,Bandipore,Medium Priority,324.0,377,1,1
+Haryana,Gurgaon,Medium Priority,325.0,1167,3,3
+Maharashtra,Nanded,Medium Priority,326.0,1521,3,3
+Karnataka,Vijayanagara,Medium Priority,327.0,433,1,1
+Arunachal Pradesh,Lower Subansiri,Medium Priority,328.0,20,1,1
+Madhya Pradesh,Sagar,Medium Priority,329.0,2633,5,5
+Tripura,Dhalai,Medium Priority,330.0,259,1,1
+Uttar Pradesh,Kanpur Nagar,Medium Priority,331.0,3079,6,6
+Bihar,East Champaran,Medium Priority,332.0,4319,8,8
+Chhattisgarh,Mohla-Manpur-Ambagarh Chouki,Medium Priority,333.0,56,1,1
+Madhya Pradesh,Indore,Medium Priority,334.0,3347,7,7
+Assam,Majuli,Medium Priority,335.0,45,1,1
+Manipur,Jiribam,Medium Priority,336.0,34,1,1
+Telangana,Medchal-Malkajgiri,Medium Priority,337.0,899,2,2
+Orissa,Jajapur,Medium Priority,338.0,23,1,1
+Tripura,West Tripura,Medium Priority,339.0,603,2,2
+Maharashtra,Beed,Medium Priority,340.0,1207,3,3
+Maharashtra,Yavatmal,Medium Priority,341.0,1193,3,3
+Arunachal Pradesh,Namsai,Medium Priority,342.0,29,1,1
+Arunachal Pradesh,West Siang,Medium Priority,343.0,35,1,1
+Uttar Pradesh,Maharajganj,Medium Priority,344.0,1882,4,4
+Puducherry,Puducherry,Medium Priority,345.0,290,1,1
+Bihar,Aurangabad(Bh),Medium Priority,346.0,24,1,1
+Maharashtra,Satara,Medium Priority,347.0,1152,3,3
+Rajasthan,Bundi,Medium Priority,348.0,813,2,2
+Punjab,Amritsar,Medium Priority,349.0,1121,3,3
+Telangana,Hyderabad,Medium Priority,350.0,3644,7,7
+Gujarat,Surat,Medium Priority,351.0,3046,6,6
+Bihar,West Champaran,Medium Priority,352.0,4013,8,8
+Karnataka,Haveri *,Medium Priority,353.0,28,1,1
+Punjab,Gurdaspur,Medium Priority,354.0,838,2,2
+Arunachal Pradesh,Lohit,Medium Priority,355.0,36,1,1
+Punjab,Moga,Medium Priority,356.0,279,1,1
+Kerala,Palakkad,Medium Priority,357.0,1669,4,4
+Orissa,Koraput,Medium Priority,358.0,20,1,1
+Gujarat,Narmada,Medium Priority,359.0,243,1,1
+Uttar Pradesh,Kasganj,Medium Priority,360.0,874,2,2
+Madhya Pradesh,Jhabua,Medium Priority,361.0,1660,4,4
+Bihar,Purba Champaran,Medium Priority,362.0,25,1,1
+Andhra Pradesh,Sri Sathya Sai,Medium Priority,363.0,213,1,1
+Uttar Pradesh,Sitapur,Medium Priority,364.0,3049,6,6
+Rajasthan,Jaipur,Medium Priority,365.0,4713,9,9
+Karnataka,Ballari,Medium Priority,366.0,563,2,2
+West Bengal,Cooch Behar,Medium Priority,367.0,1722,4,4
+Orissa,Dhenkanal,Medium Priority,368.0,26,1,1
+Manipur,Churachandpur,Medium Priority,369.0,361,1,1
+Gujarat,Bharuch,Medium Priority,370.0,770,2,2
+Uttar Pradesh,Jalaun,Medium Priority,371.0,949,2,2
+Bihar,Muzaffarpur,Medium Priority,372.0,3465,7,7
+Uttar Pradesh,Barabanki,Medium Priority,373.0,102,1,1
+Jharkhand,Ranchi,Medium Priority,374.0,2527,5,5
+Uttar Pradesh,Baghpat,Medium Priority,375.0,1072,2,2
+Uttar Pradesh,Kanpur Dehat,Medium Priority,376.0,1002,2,2
+Chhattisgarh,Dakshin Bastar Dantewada,Medium Priority,377.0,345,1,1
+West Bengal,Hooghly,Medium Priority,378.0,3041,6,6
+Andaman And Nicobar Islands,North And Middle Andaman,Medium Priority,379.0,30,1,1
+Maharashtra,Nandurbar,Medium Priority,380.0,1231,3,3
+Assam,Hojai,Medium Priority,381.0,598,2,2
+Delhi,North West Delhi,Medium Priority,382.0,2547,5,5
+Rajasthan,Dhaulpur,Medium Priority,383.0,23,1,1
+Uttar Pradesh,Aligarh,Medium Priority,384.0,2412,5,5
+Uttar Pradesh,Budaun,Medium Priority,385.0,1925,4,4
+Manipur,Ukhrul,Medium Priority,386.0,171,1,1
+Andhra Pradesh,Parvathipuram Manyam,Medium Priority,387.0,104,1,1
+Orissa,Sundargarh,Medium Priority,388.0,28,1,1
+Jammu And Kashmir,Budgam,Medium Priority,389.0,190,1,1
+Maharashtra,Thane,Medium Priority,390.0,5595,11,11
+Rajasthan,Chittorgarh,Medium Priority,391.0,745,2,2
+Tamil Nadu,Salem,Medium Priority,392.0,2036,4,4
+Punjab,Sas Nagar (Mohali),Medium Priority,393.0,536,1,1
+Uttar Pradesh,Gonda,Medium Priority,394.0,2311,5,5
+Tamil Nadu,Thiruvallur,Medium Priority,395.0,60,1,1
+Uttar Pradesh,Gorakhpur,Medium Priority,396.0,2771,6,6
+Uttar Pradesh,Bareilly,Medium Priority,397.0,3406,7,7
+Delhi,East Delhi,Medium Priority,398.0,1143,3,3
+Jammu And Kashmir,Samba,Medium Priority,399.0,136,1,1
+Andhra Pradesh,Anakapalli,Medium Priority,400.0,125,1,1
+Maharashtra,Solapur,Medium Priority,401.0,2265,5,5
+Madhya Pradesh,Chhatarpur,Medium Priority,402.0,2521,5,5
+Uttar Pradesh,Ayodhya,Medium Priority,403.0,195,1,1
+Tripura,Gomati,Medium Priority,404.0,125,1,1
+Uttarakhand,Hardwar,Medium Priority,405.0,32,1,1
+Maharashtra,Buldhana,Medium Priority,406.0,973,2,2
+Karnataka,Gadag *,Medium Priority,407.0,26,1,1
+Uttarakhand,Nainital,Medium Priority,408.0,714,2,2
+Haryana,Faridabad,Medium Priority,409.0,1454,3,3
+Sikkim,South,Medium Priority,410.0,30,1,1
+Jharkhand,Lohardaga,Medium Priority,411.0,505,1,1
+Odisha,Jajpur,Medium Priority,412.0,509,1,1
+Ladakh,Kargil,Medium Priority,413.0,116,1,1
+Maharashtra,Latur,Medium Priority,414.0,1120,3,3
+Arunachal Pradesh,Changlang,Medium Priority,415.0,120,1,1
+Maharashtra,Chandrapur,Medium Priority,416.0,741,2,2
+Karnataka,Shivamogga,Medium Priority,417.0,495,1,1
+Punjab,Mansa,Medium Priority,418.0,219,1,1
+Jammu And Kashmir,Leh,Medium Priority,419.0,51,1,1
+Lakshadweep,Lakshadweep,Medium Priority,419.0,45,1,1
+Maharashtra,Nagpur,Medium Priority,420.0,2024,4,4
+Madhya Pradesh,Sheopur,Medium Priority,421.0,914,2,2
+Tripura,North Tripura,Medium Priority,422.0,266,1,1
+Karnataka,Chikmagalur,Medium Priority,423.0,37,1,1
+Maharashtra,Sindhudurg,Medium Priority,424.0,266,1,1
+Uttar Pradesh,Banda,Medium Priority,425.0,1178,3,3
+Uttar Pradesh,Varanasi,Medium Priority,426.0,2534,5,5
+Uttar Pradesh,Balrampur,Medium Priority,427.0,1846,4,4
+Tamil Nadu,Chennai,Medium Priority,428.0,2101,4,4
+Tripura,Sepahijala,Medium Priority,429.0,329,1,1
+Uttar Pradesh,Unnao,Medium Priority,430.0,2366,5,5
+Bihar,Nawada,Medium Priority,431.0,2307,5,5
+Rajasthan,Jaisalmer,Medium Priority,432.0,470,1,1
+Odisha,Anugul,Medium Priority,433.0,25,1,1
+Haryana,Rohtak,Medium Priority,434.0,647,2,2
+Madhya Pradesh,Khandwa,Medium Priority,435.0,672,2,2
+Delhi,North Delhi,Medium Priority,436.0,634,2,2
+Uttar Pradesh,Kheri,Medium Priority,437.0,3068,6,6
+Uttar Pradesh,Chandauli,Medium Priority,438.0,1215,3,3
+Jharkhand,Khunti,Medium Priority,439.0,424,1,1
+Kerala,Idukki,Medium Priority,440.0,386,1,1
+Uttar Pradesh,Shahjahanpur,Medium Priority,441.0,1961,4,4
+Uttar Pradesh,Fatehpur,Medium Priority,442.0,1621,3,3
+Arunachal Pradesh,Papum Pare,Medium Priority,443.0,92,1,1
+Karnataka,Kalaburagi,Medium Priority,444.0,936,2,2
+Bihar,Bhagalpur,Medium Priority,445.0,2663,5,5
+Jammu And Kashmir,Baramula,Medium Priority,446.0,844,2,2
+Madhya Pradesh,Narsinghpur,Medium Priority,447.0,872,2,2
+Pondicherry,Karaikal,Medium Priority,448.0,32,1,1
+Uttar Pradesh,Lucknow,Medium Priority,449.0,3859,8,8
+Rajasthan,Dholpur,Medium Priority,450.0,1127,3,3
+Maharashtra,Sangli,Medium Priority,451.0,1042,2,2
+Punjab,Jalandhar,Low Priority,452.0,849,2,2
+Kerala,Kasaragod,Low Priority,453.0,870,2,2
+Bihar,Munger,Low Priority,454.0,902,2,2
+Gujarat,Junagadh,Low Priority,455.0,1039,2,2
+Odisha,Baudh,Low Priority,456.0,32,1,1
+Uttar Pradesh,Ghaziabad,Low Priority,457.0,2843,6,6
+Rajasthan,Jalor,Low Priority,458.0,2221,5,5
+Karnataka,Vijayapura,Low Priority,459.0,962,2,2
+Maharashtra,Jalgaon,Low Priority,460.0,1948,4,4
+Kerala,Malappuram,Low Priority,461.0,3539,7,7
+Rajasthan,Bhilwara,Low Priority,462.0,1735,4,4
+Karnataka,Tumakuru,Low Priority,463.0,685,2,2
+Kerala,Kottayam,Low Priority,464.0,774,2,2
+Telangana,Rangareddy,Low Priority,465.0,66,1,1
+Uttar Pradesh,Etawah,Low Priority,466.0,1085,2,2
+Madhya Pradesh,Vidisha,Low Priority,467.0,1391,3,3
+Orissa,Rayagada,Low Priority,468.0,27,1,1
+Madhya Pradesh,Raisen,Low Priority,469.0,1368,3,3
+Uttar Pradesh,Bulandshahar,Low Priority,470.0,38,1,1
+Bihar,Gaya,Low Priority,471.0,3941,8,8
+Punjab,Pathankot,Low Priority,472.0,247,1,1
+Bihar,Saharsa,Low Priority,473.0,2120,4,4
+Maharashtra,Amravati,Low Priority,474.0,1158,3,3
+Jammu And Kashmir,Ganderbal,Low Priority,475.0,178,1,1
+Uttar Pradesh,Mainpuri,Low Priority,476.0,1510,3,3
+Bihar,Jamui,Low Priority,477.0,1594,3,3
+Uttar Pradesh,Lalitpur,Low Priority,478.0,936,2,2
+Madhya Pradesh,Betul,Low Priority,479.0,1548,3,3
+Rajasthan,Sikar,Low Priority,480.0,1734,4,4
+West Bengal,Dakshin Dinajpur,Low Priority,481.0,1115,3,3
+Andaman And Nicobar Islands,South Andaman,Low Priority,482.0,43,1,1
+Karnataka,Yadgir,Low Priority,483.0,1354,3,3
+West Bengal,Hugli,Low Priority,484.0,38,1,1
+Uttar Pradesh,Pilibhit,Low Priority,485.0,1256,3,3
+Bihar,Supaul,Low Priority,486.0,2467,5,5
+Jharkhand,Dumka,Low Priority,487.0,1129,3,3
+Maharashtra,Palghar,Low Priority,488.0,1734,4,4
+Uttar Pradesh,Kannauj,Low Priority,489.0,1058,2,2
+Jharkhand,Deoghar,Low Priority,490.0,1741,4,4
+Punjab,Nawanshahr,Low Priority,491.0,43,1,1
+Punjab,Fatehgarh Sahib,Low Priority,492.0,210,1,1
+Rajasthan,Bikaner,Low Priority,493.0,1661,4,4
+Karnataka,Belagavi,Low Priority,494.0,1647,3,3
+Jammu And Kashmir,Kupwara,Low Priority,495.0,655,2,2
+Odisha,Kalahandi,Low Priority,496.0,785,2,2
+Punjab,Patiala,Low Priority,497.0,672,2,2
+Uttar Pradesh,Rampur,Low Priority,498.0,2012,4,4
+Himachal Pradesh,Shimla,Low Priority,499.0,394,1,1
+Karnataka,Haveri,Low Priority,500.0,927,2,2
+Uttarakhand,Dehradun,Low Priority,501.0,1248,3,3
+Rajasthan,Kota,Low Priority,502.0,1485,3,3
+Punjab,Faridkot,Low Priority,503.0,170,1,1
+Uttar Pradesh,Etah,Low Priority,504.0,1031,2,2
+Jharkhand,Gumla,Low Priority,505.0,1127,3,3
+Uttar Pradesh,Farrukhabad,Low Priority,506.0,1216,3,3
+Maharashtra,Washim,Low Priority,507.0,604,2,2
+Uttar Pradesh,Jaunpur,Low Priority,508.0,2520,5,5
+Madhya Pradesh,Panna,Low Priority,509.0,1594,3,3
+Punjab,Sangrur,Low Priority,510.0,395,1,1
+Uttar Pradesh,Sambhal,Low Priority,511.0,1641,3,3
+West Bengal,Uttar Dinajpur,Low Priority,512.0,4324,8,8
+Maharashtra,Nashik,Low Priority,513.0,3394,7,7
+Maharashtra,Ratnagiri,Low Priority,514.0,581,2,2
+Kerala,Wayanad,Low Priority,515.0,379,1,1
+West Bengal,Bankura,Low Priority,516.0,2400,5,5
+Sikkim,East,Low Priority,517.0,62,1,1
+Orissa,Puri,Low Priority,518.0,43,1,1
+Chandigarh,Chandigarh,Low Priority,519.0,548,1,1
+Uttar Pradesh,Azamgarh,Low Priority,520.0,3192,6,6
+Rajasthan,Pali,Low Priority,521.0,1617,3,3
+Telangana,Bhadradri Kothagudem,Low Priority,522.0,538,1,1
+Rajasthan,Udaipur,Low Priority,523.0,2651,5,5
+West Bengal,Howrah,Low Priority,524.0,2183,4,4
+Rajasthan,Karauli,Low Priority,525.0,1411,3,3
+Bihar,Gopalganj,Low Priority,526.0,2074,4,4
+Uttar Pradesh,Bhadohi,Low Priority,527.0,108,1,1
+Chhattisgarh,Uttar Bastar Kanker,Low Priority,528.0,195,1,1
+Uttar Pradesh,Hathras,Low Priority,529.0,1104,3,3
+Karnataka,Bidar,Low Priority,530.0,1013,2,2
+Rajasthan,Alwar,Low Priority,531.0,3278,6,6
+Rajasthan,Baran,Low Priority,532.0,1005,2,2
+Manipur,Senapati,Low Priority,533.0,306,1,1
+Karnataka,Mandya,Low Priority,534.0,889,2,2
+Rajasthan,Churu,Low Priority,535.0,1823,4,4
+Jharkhand,East Singhbhum,Low Priority,536.0,1712,4,4
+Rajasthan,Sawai Madhopur,Low Priority,537.0,1107,3,3
+Chhattisgarh,Khairagarh Chhuikhadan Gandai,Low Priority,538.0,58,1,1
+Rajasthan,Ajmer,Low Priority,539.0,1867,4,4
+Madhya Pradesh,Agar Malwa,Low Priority,540.0,648,2,2
+Karnataka,Udupi,Low Priority,541.0,693,2,2
+Uttar Pradesh,Bulandshahr,Low Priority,542.0,2834,6,6
+Chhattisgarh,Durg,Low Priority,543.0,638,2,2
+Madhya Pradesh,Bhopal,Low Priority,544.0,2240,5,5
+Odisha,Kendrapara,Low Priority,545.0,775,2,2
+Rajasthan,Nagaur,Low Priority,546.0,2455,5,5
+Karnataka,Dakshina Kannada,Low Priority,547.0,1511,3,3
+Uttar Pradesh,Hardoi,Low Priority,548.0,2829,6,6
+Telangana,Warangal Urban,Low Priority,549.0,137,1,1
+Karnataka,Bagalkot *,Low Priority,550.0,53,1,1
+Karnataka,Chamarajanagar,Low Priority,550.0,54,1,1
+Punjab,Rupnagar,Low Priority,551.0,250,1,1
+Uttar Pradesh,Sultanpur,Low Priority,552.0,1741,4,4
+Madhya Pradesh,West Nimar,Low Priority,553.0,154,1,1
+Karnataka,Bagalkot,Low Priority,554.0,1514,3,3
+Chhattisgarh,Balrampur,Low Priority,555.0,783,2,2
+Madhya Pradesh,Shahdol,Low Priority,556.0,1192,3,3
+Punjab,Malerkotla,Low Priority,557.0,175,1,1
+Tamil Nadu,Ramanathapuram,Low Priority,558.0,830,2,2
+Rajasthan,Jhunjhunun,Low Priority,559.0,1383,3,3
+Bihar,Lakhisarai,Low Priority,560.0,829,2,2
+Bihar,Purnea,Low Priority,561.0,52,1,1
+Rajasthan,Chittaurgarh,Low Priority,562.0,57,1,1
+Odisha,Balangir,Low Priority,563.0,979,2,2
+Haryana,Ambala,Low Priority,564.0,698,2,2
+Uttar Pradesh,Deoria,Low Priority,565.0,1741,4,4
+Jammu And Kashmir,Anantnag,Low Priority,566.0,754,2,2
+Karnataka,Chamrajanagar,Low Priority,567.0,497,1,1
+Bihar,Kaimur (Bhabua),Low Priority,568.0,933,2,2
+Uttar Pradesh,Mathura,Low Priority,569.0,2075,4,4
+Odisha,Koraput,Low Priority,570.0,675,2,2
+Karnataka,Chitradurga,Low Priority,571.0,1047,2,2
+Maharashtra,Akola,Low Priority,572.0,841,2,2
+Madhya Pradesh,Katni,Low Priority,573.0,2119,4,4
+Odisha,Nabarangapur,Low Priority,574.0,954,2,2
+Chhattisgarh,Sakti,Low Priority,575.0,92,1,1
+Maharashtra,Ahmadnagar,Low Priority,576.0,2700,5,5
+Karnataka,Raichur,Low Priority,577.0,2095,4,4
+Punjab,Barnala,Low Priority,578.0,220,1,1
+Punjab,S.A.S Nagar(Mohali),Low Priority,579.0,55,1,1
+Manipur,Chandel,Low Priority,580.0,126,1,1
+Manipur,Imphal East,Low Priority,581.0,266,1,1
+Uttar Pradesh,Kushi Nagar,Low Priority,582.0,1570,3,3
+Uttar Pradesh,Muzaffarnagar,Low Priority,583.0,2031,4,4
+Jharkhand,Palamau,Low Priority,584.0,58,1,1
+Uttar Pradesh,Meerut,Low Priority,585.0,3089,6,6
+Odisha,Gajapati,Low Priority,586.0,330,1,1
+Maharashtra,Gadchiroli,Low Priority,587.0,457,1,1
+Rajasthan,Bharatpur,Low Priority,588.0,2647,5,5
+Rajasthan,Tonk,Low Priority,589.0,888,2,2
+West Bengal,Puruliya,Low Priority,590.0,2569,5,5
+Jammu And Kashmir,Kulgam,Low Priority,591.0,282,1,1
+Chhattisgarh,Manendragarh–Chirmiri–Bharatpur,Low Priority,592.0,65,1,1
+Uttar Pradesh,Moradabad,Low Priority,593.0,2452,5,5
+Bihar,Rohtas,Low Priority,594.0,1672,4,4
+Uttar Pradesh,Bara Banki,Low Priority,595.0,1691,4,4
+Telangana,Peddapalli,Low Priority,596.0,118,1,1
+Jharkhand,Pakaur,Low Priority,597.0,40,1,1
+Uttar Pradesh,Firozabad,Low Priority,598.0,1268,3,3
+Andhra Pradesh,Nandyal,Low Priority,599.0,219,1,1
+Uttar Pradesh,Jhansi,Low Priority,600.0,1434,3,3
+Rajasthan,Jhunjhunu,Low Priority,601.0,52,1,1
+Madhya Pradesh,Satna,Low Priority,602.0,2445,5,5
+Madhya Pradesh,Harda,Low Priority,603.0,410,1,1
+Uttarakhand,Pithoragarh,Low Priority,604.0,259,1,1
+Karnataka,Davangere,Low Priority,605.0,1095,2,2
+Madhya Pradesh,Ratlam,Low Priority,606.0,1798,4,4
+Jammu And Kashmir,Pulwama,Low Priority,607.0,443,1,1
+Uttar Pradesh,Kaushambi,Low Priority,608.0,1273,3,3
+Maharashtra,Kolhapur,Low Priority,609.0,1633,3,3
+Tamil Nadu,Kanyakumari,Low Priority,610.0,416,1,1
+Jharkhand,Kodarma,Low Priority,611.0,66,1,1
+Telangana,K.V. Rangareddy,Low Priority,612.0,3676,7,7
+Karnataka,Uttara Kannada,Low Priority,613.0,803,2,2
+Bihar,Nalanda,Low Priority,614.0,2290,5,5
+Telangana,Medchal−Malkajgiri,Low Priority,615.0,114,1,1
+Kerala,Kasargod,Low Priority,616.0,78,1,1
+Bihar,Arwal,Low Priority,617.0,651,2,2
+Karnataka,Koppal,Low Priority,618.0,1211,3,3
+Chhattisgarh,Narayanpur,Low Priority,619.0,162,1,1
+Uttarakhand,Chamoli,Low Priority,620.0,224,1,1
+Bihar,Purnia,Low Priority,621.0,3354,7,7
+Dadra And Nagar Haveli,Dadra And Nagar Haveli,Low Priority,622.0,126,1,1
+Odisha,Debagarh,Low Priority,623.0,169,1,1
+Madhya Pradesh,Mauganj,Low Priority,624.0,91,1,1
+Orissa,Cuttack,Low Priority,625.0,66,1,1
+Uttarakhand,Haridwar,Low Priority,626.0,1162,3,3
+Bihar,Saran,Low Priority,627.0,4440,9,9
+West Bengal,South 24 Parganas,Low Priority,628.0,7877,15,15
+Bihar,Siwan,Low Priority,629.0,2930,6,6
+Maharashtra,Ahmed Nagar,Low Priority,630.0,82,1,1
+Rajasthan,Hanumangarh,Low Priority,631.0,774,2,2
+Bihar,Buxar,Low Priority,632.0,1479,3,3
+Madhya Pradesh,Dewas,Low Priority,633.0,1963,4,4
+Punjab,Muktsar,Low Priority,634.0,59,1,1
+Madhya Pradesh,Sehore,Low Priority,635.0,1144,3,3
+Bihar,Khagaria,Low Priority,636.0,1627,3,3
+Haryana,Sonipat,Low Priority,637.0,942,2,2
+Uttarakhand,Pauri Garhwal,Low Priority,638.0,399,1,1
+Manipur,Thoubal,Low Priority,639.0,241,1,1
+West Bengal,North Dinajpur,Low Priority,640.0,71,1,1
+Jammu And Kashmir,Jammu,Low Priority,641.0,964,2,2
+Rajasthan,Dungarpur,Low Priority,642.0,1165,3,3
+Jharkhand,Sahibganj,Low Priority,643.0,75,1,1
+Maharashtra,Aurangabad,Low Priority,644.0,2400,5,5
+West Bengal,Paschim Medinipur,Low Priority,645.0,3571,7,7
+Rajasthan,Jhalawar,Low Priority,646.0,1220,3,3
+Karnataka,Hassan,Low Priority,647.0,565,2,2
+Rajasthan,Dausa,Low Priority,648.0,1169,3,3
+Andhra Pradesh,Prakasam,Low Priority,649.0,1488,3,3
+Telangana,Jayashankar Bhupalpally,Low Priority,650.0,175,1,1
+Odisha,Jagatsinghapur,Low Priority,651.0,737,2,2
+Punjab,Sri Muktsar Sahib,Low Priority,652.0,243,1,1
+Madhya Pradesh,Jabalpur,Low Priority,653.0,2609,5,5
+Rajasthan,Ganganagar,Low Priority,654.0,1111,3,3
+Bihar,Araria,Low Priority,655.0,2993,6,6
+Karnataka,Kolar,Low Priority,656.0,937,2,2
+Uttar Pradesh,Basti,Low Priority,657.0,2121,4,4
+Chhattisgarh,Raipur,Low Priority,658.0,1437,3,3
+Uttar Pradesh,Hamirpur,Low Priority,659.0,667,2,2
+Madhya Pradesh,Damoh,Low Priority,660.0,1241,3,3
+Bihar,Bhojpur,Low Priority,661.0,2884,6,6
+Uttarakhand,Almora,Low Priority,662.0,314,1,1
+Jharkhand,Dhanbad,Low Priority,663.0,1971,4,4
+Orissa,Bhadrak,Low Priority,664.0,63,1,1
+Tamil Nadu,Mayiladuthurai,Low Priority,665.0,97,1,1
+Tamil Nadu,Dharmapuri,Low Priority,666.0,1284,3,3
+Chhattisgarh,Raigarh,Low Priority,667.0,626,2,2
+Jharkhand,Simdega,Low Priority,668.0,360,1,1
+Haryana,Mahendragarh,Low Priority,669.0,593,2,2
+Jharkhand,Garhwa *,Low Priority,670.0,86,1,1
+Telangana,Hanumakonda,Low Priority,671.0,211,1,1
+Haryana,Panipat,Low Priority,672.0,807,2,2
+Karnataka,Chamrajnagar,Low Priority,673.0,88,1,1
+Uttar Pradesh,Amethi,Low Priority,674.0,1385,3,3
+Orissa,Baleshwar,Low Priority,675.0,74,1,1
+Madhya Pradesh,Datia,Low Priority,676.0,851,2,2
+Jammu And Kashmir,Doda,Low Priority,677.0,1156,3,3
+Punjab,Bathinda,Low Priority,678.0,527,1,1
+Chhattisgarh,Mahasamund,Low Priority,679.0,660,2,2
+Uttar Pradesh,Amroha,Low Priority,680.0,1553,3,3
+Jharkhand,Palamu,Low Priority,681.0,1936,4,4
+Jammu And Kashmir,Punch,Low Priority,682.0,618,2,2
+Jharkhand,Seraikela-Kharsawan,Low Priority,683.0,952,2,2
+Jharkhand,West Singhbhum,Low Priority,684.0,1364,3,3
+Telangana,Jagitial,Low Priority,685.0,317,1,1
+Jammu And Kashmir,Kargil,Low Priority,686.0,125,1,1
+Bihar,Banka,Low Priority,687.0,2165,4,4
+Chhattisgarh,Baloda Bazar,Low Priority,688.0,917,2,2
+Bihar,Aurangabad,Low Priority,689.0,2228,5,5
+Odisha,Subarnapur,Low Priority,690.0,65,1,1
+Punjab,Firozpur,Low Priority,691.0,61,1,1
+Punjab,Tarn Taran,Low Priority,692.0,515,1,1
+Orissa,Ganjam,Low Priority,693.0,88,1,1
+Uttar Pradesh,Shamli,Low Priority,694.0,1752,4,4
+Bihar,Katihar,Low Priority,695.0,2969,6,6
+Maharashtra,Mumbai( Sub Urban ),Low Priority,696.0,97,1,1
+Jammu And Kashmir,Kishtwar,Low Priority,697.0,338,1,1
+Bihar,Samastipur,Low Priority,698.0,3994,8,8
+Jammu And Kashmir,Reasi,Low Priority,699.0,434,1,1
+West Bengal,Birbhum,Low Priority,700.0,3147,6,6
+Uttarakhand,Uttarkashi,Low Priority,701.0,284,1,1
+Bihar,Sheikhpura,Low Priority,702.0,606,2,2
+Rajasthan,Rajsamand,Low Priority,703.0,832,2,2
+Orissa,Balangir,Low Priority,704.0,73,1,1
+West Bengal,Darjiling,Low Priority,705.0,125,1,1
+Madhya Pradesh,Guna,Low Priority,706.0,1436,3,3
+Jharkhand,Pakur,Low Priority,707.0,361,1,1
+Himachal Pradesh,Solan,Low Priority,708.0,270,1,1
+Telangana,Warangal Rural,Low Priority,709.0,162,1,1
+Jharkhand,Pashchimi Singhbhum,Low Priority,710.0,129,1,1
+Telangana,Rajanna Sircilla,Low Priority,711.0,194,1,1
+Uttarakhand,Bageshwar,Low Priority,712.0,161,1,1
+Punjab,Fazilka,Low Priority,713.0,334,1,1
+West Bengal,South Dinajpur,Low Priority,714.0,82,1,1
+Uttar Pradesh,Ghazipur,Low Priority,715.0,2067,4,4
+Uttar Pradesh,Ambedkar Nagar,Low Priority,716.0,1452,3,3
+Himachal Pradesh,Sirmaur,Low Priority,717.0,338,1,1
+Chhattisgarh,Kabeerdham,Low Priority,718.0,205,1,1
+Chhattisgarh,Rajnandgaon,Low Priority,719.0,937,2,2
+Telangana,Mulugu,Low Priority,720.0,194,1,1
+Uttar Pradesh,Sant Kabir Nagar,Low Priority,721.0,1330,3,3
+Uttar Pradesh,Mau,Low Priority,722.0,1418,3,3
+Madhya Pradesh,East Nimar,Low Priority,723.0,692,2,2
+Himachal Pradesh,Chamba,Low Priority,724.0,403,1,1
+Karnataka,Davanagere,Low Priority,725.0,102,1,1
+Jammu And Kashmir,Shupiyan,Low Priority,726.0,158,1,1
+Uttar Pradesh,Hapur,Low Priority,727.0,930,2,2
+Rajasthan,Barmer,Low Priority,728.0,2599,5,5
+Haryana,Kurukshetra,Low Priority,729.0,519,1,1
+Chhattisgarh,Gariyaband,Low Priority,730.0,321,1,1
+Madhya Pradesh,Ujjain,Low Priority,731.0,3243,6,6
+Odisha,Nayagarh,Low Priority,732.0,452,1,1
+Andhra Pradesh,Nizamabad,Low Priority,733.0,101,1,1
+Haryana,Panchkula,Low Priority,734.0,332,1,1
+Himachal Pradesh,Kangra,Low Priority,735.0,872,2,2
+Tamil Nadu,Vellore,Low Priority,736.0,1966,4,4
+Punjab,Ferozepur,Low Priority,737.0,251,1,1
+Uttarakhand,Tehri Garhwal,Low Priority,738.0,618,2,2
+Uttar Pradesh,Pratapgarh,Low Priority,739.0,2011,4,4
+Jharkhand,Giridih,Low Priority,740.0,2836,6,6
+Andhra Pradesh,Chittoor,Low Priority,741.0,1792,4,4
+Jharkhand,Chatra,Low Priority,742.0,1196,3,3
+Jharkhand,Hazaribagh,Low Priority,743.0,1268,3,3
+Delhi,North East Delhi,Low Priority,744.0,1237,3,3
+Rajasthan,Pratapgarh,Low Priority,745.0,649,2,2
+Madhya Pradesh,Chhindwara,Low Priority,746.0,2040,4,4
+West Bengal,Malda,Low Priority,747.0,3056,6,6
+Tamil Nadu,Cuddalore,Low Priority,748.0,1732,4,4
+Karnataka,Chikkaballapur,Low Priority,749.0,687,2,2
+Maharashtra,Mumbai,Low Priority,750.0,3035,6,6
+Tamil Nadu,Kancheepuram,Low Priority,751.0,2662,5,5
+Andhra Pradesh,Krishna,Low Priority,752.0,1453,3,3
+Uttar Pradesh,Auraiya,Low Priority,753.0,723,2,2
+Odisha,Angul,Low Priority,754.0,515,1,1
+Jharkhand,Latehar,Low Priority,755.0,530,1,1
+Jharkhand,Hazaribag,Low Priority,756.0,121,1,1
+Uttar Pradesh,Saharanpur,Low Priority,757.0,2658,5,5
+Haryana,Bhiwani,Low Priority,758.0,775,2,2
+Telangana,Narayanpet,Low Priority,759.0,259,1,1
+Maharashtra,Bid,Low Priority,760.0,119,1,1
+Tamil Nadu,Pudukkottai,Low Priority,761.0,1381,3,3
+Odisha,Sundergarh,Low Priority,762.0,706,2,2
+Himachal Pradesh,Mandi,Low Priority,763.0,582,2,2
+Telangana,Sangareddy,Low Priority,764.0,581,2,2
+Karnataka,Gadag,Low Priority,765.0,803,2,2
+Tamil Nadu,Sivaganga,Low Priority,766.0,931,2,2
+Madhya Pradesh,Umaria,Low Priority,767.0,1088,2,2
+Haryana,Kaithal,Low Priority,768.0,537,1,1
+Chhattisgarh,Bemetara,Low Priority,769.0,644,2,2
+Odisha,Sundargarh,Low Priority,770.0,110,1,1
+Tamil Nadu,Coimbatore,Low Priority,771.0,1867,4,4
+Tamil Nadu,Tiruvallur,Low Priority,772.0,2521,5,5
+West Bengal,Purulia,Low Priority,773.0,149,1,1
+Haryana,Fatehabad,Low Priority,774.0,640,2,2
+Jammu And Kashmir,Udhampur,Low Priority,775.0,717,2,2
+Haryana,Jhajjar,Low Priority,776.0,576,2,2
+Tamil Nadu,Tiruvannamalai,Low Priority,777.0,1468,3,3
+Madhya Pradesh,Anuppur,Low Priority,778.0,841,2,2
+Madhya Pradesh,Harda *,Low Priority,779.0,106,1,1
+Tamil Nadu,Tirupattur,Low Priority,780.0,231,1,1
+Jharkhand,Ramgarh,Low Priority,781.0,634,2,2
+Maharashtra,Bhandara,Low Priority,782.0,409,1,1
+Karnataka,Ramanagar,Low Priority,783.0,568,2,2
+Tamil Nadu,The Nilgiris,Low Priority,784.0,361,1,1
+Uttar Pradesh,Mahoba,Low Priority,785.0,565,2,2
+Bihar,Madhepura,Low Priority,786.0,1922,4,4
+Uttar Pradesh,Rae Bareli,Low Priority,787.0,2060,4,4
+Uttarakhand,Champawat,Low Priority,788.0,178,1,1
+Bihar,Darbhanga,Low Priority,789.0,3154,6,6
+Madhya Pradesh,Rajgarh,Low Priority,790.0,1861,4,4
+Madhya Pradesh,Balaghat,Low Priority,791.0,1407,3,3
+Andhra Pradesh,Karimnagar,Low Priority,792.0,123,1,1
+Uttar Pradesh,Bijnor,Low Priority,793.0,3386,7,7
+Odisha,Mayurbhanj,Low Priority,794.0,1367,3,3
+Bihar,Sheohar,Low Priority,795.0,731,2,2
+Chhattisgarh,Korba,Low Priority,796.0,738,2,2
+Bihar,Begusarai,Low Priority,797.0,2667,5,5
+Jharkhand,Koderma,Low Priority,798.0,639,2,2
+Rajasthan,Banswara,Low Priority,799.0,1277,3,3
+Odisha,Jagatsinghpur,Low Priority,800.0,157,1,1
+Chhattisgarh,Balod,Low Priority,801.0,354,1,1
+Jharkhand,Jamtara,Low Priority,802.0,925,2,2
+Telangana,Nirmal,Low Priority,803.0,266,1,1
+Tripura,South Tripura,Low Priority,804.0,463,1,1
+Madhya Pradesh,Tikamgarh,Low Priority,805.0,1579,3,3
+Andhra Pradesh,West Godavari,Low Priority,806.0,1249,3,3
+Chhattisgarh,Dantewada,Low Priority,807.0,206,1,1
+Jammu And Kashmir,Ramban,Low Priority,808.0,513,1,1
+West Bengal,Purba Medinipur,Low Priority,809.0,2834,6,6
+Maharashtra,Wardha,Low Priority,810.0,389,1,1
+Orissa,Khordha,Low Priority,811.0,136,1,1
+Andhra Pradesh,Mahbubnagar,Low Priority,812.0,140,1,1
+Andhra Pradesh,Ananthapuramu,Low Priority,813.0,707,2,2
+Andhra Pradesh,Visakhapatnam,Low Priority,814.0,1786,4,4
+Haryana,Hisar,Low Priority,815.0,1077,2,2
+Tamil Nadu,Madurai,Low Priority,816.0,1873,4,4
+Uttar Pradesh,Ballia,Low Priority,817.0,2061,4,4
+Madhya Pradesh,Neemuch,Low Priority,818.0,1153,3,3
+Chhattisgarh,Kondagaon,Low Priority,819.0,693,2,2
+Karnataka,Dharwad,Low Priority,820.0,1122,3,3
+West Bengal,Koch Bihar,Low Priority,821.0,633,2,2
+Jammu And Kashmir,Rajouri,Low Priority,822.0,614,2,2
+Andhra Pradesh,Guntur,Low Priority,823.0,2244,5,5
+Jammu And Kashmir,Kathua,Low Priority,824.0,753,2,2
+Odisha,Dhenkanal,Low Priority,825.0,516,1,1
+Jharkhand,Godda,Low Priority,826.0,1088,2,2
+Uttar Pradesh,Allahabad,Low Priority,827.0,2499,5,5
+Odisha,Bhadrak,Low Priority,828.0,798,2,2
+Maharashtra,Jalna,Low Priority,829.0,1093,2,2
+Haryana,Rewari,Low Priority,830.0,557,2,2
+Telangana,Mancherial,Low Priority,831.0,222,1,1
+Telangana,Nagarkurnool,Low Priority,832.0,254,1,1
+Odisha,Kandhamal,Low Priority,833.0,475,1,1
+Odisha,Baleshwar,Low Priority,834.0,152,1,1
+Haryana,Charkhi Dadri,Low Priority,834.0,186,1,1
+Odisha,Cuttack,Low Priority,835.0,942,2,2
+Odisha,Boudh,Low Priority,836.0,247,1,1
+Uttarakhand,Udham Singh Nagar,Low Priority,837.0,1232,3,3
+Chhattisgarh,Surajpur,Low Priority,838.0,610,2,2
+Madhya Pradesh,Singrauli,Low Priority,839.0,1422,3,3
+Himachal Pradesh,Hamirpur,Low Priority,840.0,295,1,1
+West Bengal,Bardhaman,Low Priority,841.0,349,1,1
+Haryana,Yamuna Nagar,Low Priority,842.0,739,2,2
+West Bengal,East Midnapore,Low Priority,843.0,431,1,1
+Maharashtra,Osmanabad,Low Priority,844.0,731,2,2
+Jharkhand,Bokaro,Low Priority,845.0,1259,3,3
+Madhya Pradesh,Mandsaur,Low Priority,846.0,2092,4,4
+Uttar Pradesh,Sonbhadra,Low Priority,847.0,877,2,2
+Odisha,Kendujhar,Low Priority,848.0,968,2,2
+Uttar Pradesh,Chitrakoot,Low Priority,849.0,1187,3,3
+Tamil Nadu,Thanjavur,Low Priority,850.0,1498,3,3
+Uttarakhand,Rudraprayag,Low Priority,851.0,209,1,1
+Maharashtra,Gondiya,Low Priority,852.0,583,2,2
+Uttar Pradesh,Kushinagar,Low Priority,853.0,2036,4,4
+Bihar,Kishanganj,Low Priority,854.0,1732,4,4
+Bihar,Vaishali,Low Priority,855.0,3656,7,7
+Telangana,Khammam,Low Priority,856.0,734,2,2
+Himachal Pradesh,Bilaspur,Low Priority,857.0,232,1,1
+West Bengal,North Twenty Four Parganas,Low Priority,858.0,318,1,1
+Chhattisgarh,Dhamtari,Low Priority,859.0,426,1,1
+Karnataka,Hasan,Low Priority,860.0,229,1,1
+Jharkhand,Purbi Singhbhum,Low Priority,861.0,210,1,1
+Madhya Pradesh,Shajapur,Low Priority,862.0,1616,3,3
+Chhattisgarh,Kanker,Low Priority,863.0,355,1,1
+Haryana,Mewat,Low Priority,864.0,1511,3,3
+Madhya Pradesh,Rewa,Low Priority,865.0,2344,5,5
+Jharkhand,Sahebganj,Low Priority,866.0,1384,3,3
+Telangana,Jangoan,Low Priority,867.0,194,1,1
+Andhra Pradesh,Warangal,Low Priority,867.0,205,1,1
+Delhi,North East,Low Priority,868.0,360,1,1
+Andhra Pradesh,Medak,Low Priority,869.0,275,1,1
+Andhra Pradesh,Adilabad,Low Priority,870.0,247,1,1
+Jharkhand,Garhwa,Low Priority,871.0,1325,3,3
+Telangana,Jogulamba Gadwal,Low Priority,872.0,380,1,1
+Maharashtra,Buldana,Low Priority,873.0,202,1,1
+West Bengal,West Midnapore,Low Priority,874.0,434,1,1
+Pondicherry,Pondicherry,Low Priority,875.0,211,1,1
+Telangana,Komaram Bheem,Low Priority,876.0,203,1,1
+Odisha,Sonapur,Low Priority,877.0,237,1,1
+Telangana,Mahabubabad,Low Priority,878.0,303,1,1
+Andhra Pradesh,Khammam,Low Priority,879.0,216,1,1
+Odisha,Jharsuguda,Low Priority,880.0,225,1,1
+Tamil Nadu,Virudhunagar,Low Priority,881.0,1131,3,3
+Andhra Pradesh,Srikakulam,Low Priority,882.0,926,2,2
+Andhra Pradesh,Nalgonda,Low Priority,883.0,218,1,1
+Chhattisgarh,Surguja,Low Priority,884.0,695,2,2
+Telangana,Yadadri.,Low Priority,885.0,300,1,1
+Madhya Pradesh,Sidhi,Low Priority,886.0,1419,3,3
+Haryana,Karnal,Low Priority,887.0,852,2,2
+Tamil Nadu,Namakkal,Low Priority,888.0,911,2,2
+Madhya Pradesh,Hoshangabad,Low Priority,889.0,1050,2,2
+Chhattisgarh,Bilaspur,Low Priority,890.0,1551,3,3
+Madhya Pradesh,Narsimhapur,Low Priority,891.0,232,1,1
+West Bengal,Murshidabad,Low Priority,892.0,7030,13,13
+Tamil Nadu,Dindigul,Low Priority,893.0,1207,3,3
+Telangana,Suryapet,Low Priority,894.0,402,1,1
+Telangana,Kamareddy,Low Priority,894.0,413,1,1
+Karnataka,Chickmagalur,Low Priority,895.0,281,1,1
+Himachal Pradesh,Una,Low Priority,896.0,286,1,1
+Odisha,Malkangiri,Low Priority,897.0,388,1,1
+Tamil Nadu,Tenkasi,Low Priority,898.0,267,1,1
+Odisha,Nuapada,Low Priority,899.0,332,1,1
+Chhattisgarh,Koriya,Low Priority,900.0,368,1,1
+Andhra Pradesh,Kurnool,Low Priority,901.0,2678,5,5
+Jammu And Kashmir,Badgam,Low Priority,902.0,422,1,1
+Telangana,Siddipet,Low Priority,903.0,396,1,1
+Odisha,Jajapur,Low Priority,904.0,495,1,1
+Telangana,Adilabad,Low Priority,905.0,576,2,2
+Tamil Nadu,Krishnagiri,Low Priority,906.0,1080,2,2
+Odisha,Puri,Low Priority,907.0,690,2,2
+Andhra Pradesh,Mahabub Nagar,Low Priority,908.0,266,1,1
+Telangana,Nalgonda,Low Priority,909.0,1340,3,3
+Odisha,Rayagada,Low Priority,910.0,457,1,1
+Chhattisgarh,Kawardha,Low Priority,911.0,456,1,1
+Telangana,Vikarabad,Low Priority,912.0,535,1,1
+Karnataka,Bijapur,Low Priority,913.0,776,2,2
+Telangana,Mahabubnagar,Low Priority,914.0,1956,4,4
+Telangana,Nizamabad,Low Priority,915.0,1307,3,3
+Madhya Pradesh,Seoni,Low Priority,916.0,1234,3,3
+Telangana,Wanaparthy,Low Priority,917.0,357,1,1
+Tamil Nadu,Kanniyakumari,Low Priority,918.0,449,1,1
+Chhattisgarh,Mungeli,Low Priority,919.0,625,2,2
+West Bengal,Haora,Low Priority,920.0,545,1,1
+Telangana,Karimnagar,Low Priority,921.0,1184,3,3
+West Bengal,Maldah,Low Priority,922.0,340,1,1
+Andhra Pradesh,East Godavari,Low Priority,923.0,1667,4,4
+West Bengal,South Twenty Four Parganas,Low Priority,924.0,977,2,2
+Chhattisgarh,Jashpur,Low Priority,925.0,570,2,2
+Karnataka,Mysore,Low Priority,926.0,737,2,2
+Madhya Pradesh,Mandla,Low Priority,927.0,1148,3,3
+Andhra Pradesh,Rangareddi,Low Priority,928.0,400,1,1
+Uttar Pradesh,Sant Ravidas Nagar,Low Priority,929.0,882,2,2
+Andhra Pradesh,Vizianagaram,Low Priority,930.0,817,2,2
+Odisha,Sambalpur,Low Priority,931.0,510,1,1
+Odisha,Ganjam,Low Priority,932.0,1570,3,3
+Haryana,Palwal,Low Priority,933.0,1061,2,2
+Andhra Pradesh,Ananthapur,Low Priority,934.0,455,1,1
+Tamil Nadu,Karur,Low Priority,935.0,778,2,2
+Tamil Nadu,Erode,Low Priority,936.0,1229,3,3
+Madhya Pradesh,Dindori,Low Priority,937.0,582,2,2
+Tamil Nadu,Thiruvarur,Low Priority,938.0,876,2,2
+Uttar Pradesh,Mirzapur,Low Priority,939.0,1454,3,3
+Tamil Nadu,Perambalur,Low Priority,940.0,431,1,1
+Karnataka,Gulbarga,Low Priority,941.0,962,2,2
+Chhattisgarh,Bastar,Low Priority,942.0,1660,4,4
+Telangana,Medak,Low Priority,943.0,1535,3,3
+Karnataka,Shimoga,Low Priority,944.0,505,1,1
+Tamil Nadu,Tiruppur,Low Priority,945.0,1282,3,3
+Haryana,Sirsa,Low Priority,946.0,771,2,2
+Odisha,Baleswar,Low Priority,947.0,1067,2,2
+Tamil Nadu,Theni,Low Priority,948.0,715,2,2
+Tamil Nadu,Thoothukkudi,Low Priority,949.0,1172,3,3
+West Bengal,Barddhaman,Low Priority,950.0,3109,6,6
+Telangana,Warangal,Low Priority,951.0,583,2,2
+Karnataka,Tumkur,Low Priority,952.0,680,2,2
+Karnataka,Bangalore,Low Priority,953.0,1603,3,3
+Odisha,Bargarh,Low Priority,954.0,931,2,2
+Karnataka,Bellary,Low Priority,955.0,817,2,2
+Andhra Pradesh,Nellore,Low Priority,956.0,1164,3,3
+Tamil Nadu,Villupuram,Low Priority,957.0,1501,3,3
+Chhattisgarh,Janjgir-Champa,Low Priority,958.0,957,2,2
+Uttar Pradesh,Faizabad,Low Priority,959.0,1299,3,3
+Andhra Pradesh,Cuddapah,Low Priority,960.0,1346,3,3
+Andhra Pradesh,Hyderabad,Low Priority,961.0,1072,2,2
+Tamil Nadu,Tiruchirappalli,Low Priority,962.0,1933,4,4
+Haryana,Jind,Low Priority,963.0,798,2,2
+Maharashtra,Raigarh,Low Priority,964.0,1083,2,2
+Tamil Nadu,Nagapattinam,Low Priority,965.0,806,2,2
+Karnataka,Belgaum,Low Priority,966.0,1392,3,3
+Andhra Pradesh,Anantapur,Low Priority,967.0,974,2,2
+Tamil Nadu,Viluppuram,Low Priority,968.0,1131,3,3
+Tamil Nadu,Tirunelveli,Low Priority,969.0,2040,4,4
